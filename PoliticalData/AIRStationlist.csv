@@ -6,21 +6,21 @@ Serial-number, Stations,               Category,  Transmitter,  Fequency, Studio
 5,     KARIMNAGAR,                     RELAY,          5 KW FM,                         102.3 MHz,     
 6,     KOTHAGUDAM,                     ,            6 KW FM ,                         100.1 Mhz ,    MP
 7,     KURNOOL,                        LRS,           6 KW FM,                            102.4 Mhz,     MP
-8,     MACHERLA,                       ,            3 KW FM ,                           103.1 MHz  ,   NA
+8,     MACHERLA,                       ,            3 KW FM ,                           103.1 MHz  ,   
 9,     MERKAPURAM,                     LRS,           6 KW FM,                            101.5 Mhz,     MP
 10,     NIZAMABAD,                      LRS,          6 KW FM,                            103.2 Mhz,     MP
 11,     NELLORE,                        RELAY,        100 W FM,                            101.1MHz,     DTHTelegu
 12,     ONGOLE,                         RELAY,       100 W FM ,                           100.6MHz ,    DTHTelegu
 13,     TIRUPATHI,                      LRS,         10 KW FM ,                          103.2 Mhz ,    MP
 16,     WARANGAL,                       LRS,         10 KW FM ,                           103.5 Mhz,    MP
-17,     SURYAPET,                       RELAY,       1 KW FM  ,                          101.0 MHz ,    NA
-18,     KAMMAREDDY,                     LPT RELAY,   100 W FM ,                          100.1 MHZ ,    NA
-19,     BANSWADA,                      LPT RELAY,   100 W FM  ,                         100.1 MHZ  ,   NA
-20,     NANDYAL,                        LPT RELAY,   100 W FM ,                          100.1 MHZ ,    NA
-21,     ADONI,                          LPT RELAY,   100 W FM ,                          100.1 MHZ ,    NA
-22,     KAKINADA,                       LPT RELAY,   100 W FM ,                          100.1 MHZ ,    NA
+17,     SURYAPET,                       RELAY,       1 KW FM  ,                          101.0 MHz ,   
+18,     KAMMAREDDY,                     LPT RELAY,   100 W FM ,                          100.1 MHZ , 
+19,     BANSWADA,                      LPT RELAY,   100 W FM  ,                         100.1 MHZ  ,  
+20,     NANDYAL,                        LPT RELAY,   100 W FM ,                          100.1 MHZ ,   
+21,     ADONI,                          LPT RELAY,   100 W FM ,                          100.1 MHZ , 
+22,     KAKINADA,                       LPT RELAY,   100 W FM ,                          100.1 MHZ ,  
 23,     MEHBOOBNAGAR,                   RELAY,       10 kW FM ,                          101.2 MHZ ,    On Low Power Pending Installation of
-24,     SRIKAKULAM                     RELAY,       1 kW FM   ,                         102.7 Mhz  ,  NA
+24,     SRIKAKULAM,                     RELAY,       1 kW FM   ,                         102.7 Mhz  ,
 25,     KHAMMAM,                        LPT RELAY,   100 W FM ,                          100.1 MHZ ,    DTHTelegu
 26,     ITANAGAR,                        ,          100 KW MW ,                          675 khz   ,   TYPE I-UPLINK-RNU
 27,     PASSIGHAT,                       ,           10 KW MW ,                            1062 khz,    MP
