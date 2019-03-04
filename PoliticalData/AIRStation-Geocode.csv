@@ -1,0 +1,409 @@
+Address,Status geocode,Formatted address,Latitude,Longitude,Type,Location Type,Street number,Street,Postal code,City,Country,Region,Department,Department number,Lat,Lng
+ADILABAD,Ok,"Adilabad, Telangana, India",19.0809075,79.560344,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Telangana,Adilabad,Adilabad,19.6640624,78.5320107
+ANANTAPUR,Ok,"Anantapur, Andhra Pradesh, India",14.6818877,77.6005911,"locality, political",APPROXIMATE,,,,Anantapur,India,Andhra Pradesh,Anantapuram,Anantapuram,14.6818877,77.6005911
+CUDDAPAH,Ok,"Kadapa, Andhra Pradesh, India",14.4673541,78.8241339,"locality, political",APPROXIMATE,,,,Kadapa,India,Andhra Pradesh,Kadapa,Kadapa,14.4673541,78.8241339
+HYDERABAD,Ok,"Hyderabad, Telangana, India",17.385044,78.486671,"locality, political",APPROXIMATE,,,,Hyderabad,India,Telangana,,,17.385044,78.486671
+KARIMNAGAR,Ok,"Karimnagar, Telangana, India",18.4385553,79.1288412,"locality, political",APPROXIMATE,,,,Karimnagar,India,Telangana,Karimnagar,Karimnagar,18.4385553,79.1288412
+KOTHAGUDAM,Ok,"Kothagudem, Telangana, India",17.5560036,80.6143961,"locality, political",APPROXIMATE,,,,Kothagudem,India,Telangana,Khammam,Khammam,17.5560036,80.6143961
+KURNOOL,Ok,"Kurnool, Andhra Pradesh, India",15.8281257,78.0372792,"locality, political",APPROXIMATE,,,,Kurnool,India,Andhra Pradesh,Kurnool,Kurnool,15.8281257,78.0372792
+MACHERLA,Ok,"Macherla, Andhra Pradesh 522426, India",16.4759885,79.4394459,"locality, political",APPROXIMATE,,,522426,Macherla,India,Andhra Pradesh,Guntur,Guntur,16.4759885,79.4394459
+MERKAPURAM,"Ok, partial match","Markapur, Andhra Pradesh, India",15.7361535,79.269125,"locality, political",APPROXIMATE,,,,Markapur,India,Andhra Pradesh,Prakasam,Prakasam,15.7361535,79.269125
+NIZAMABAD,Ok,"Nizamabad, Telangana, India",18.6725047,78.0940867,"locality, political",APPROXIMATE,,,,Nizamabad,India,Telangana,Nizamabad,Nizamabad,18.6725047,78.0940867
+NELLORE,Ok,"Nellore, Andhra Pradesh, India",14.4425987,79.986456,"locality, political",APPROXIMATE,,,,Nellore,India,Andhra Pradesh,Nellore,Nellore,14.4425987,79.986456
+ONGOLE,Ok,"Ongole, Andhra Pradesh, India",15.5057232,80.049922,"locality, political",APPROXIMATE,,,,Ongole,India,Andhra Pradesh,Prakasam,Prakasam,15.5057232,80.049922
+TIRUPATHI,Ok,"Tirupati, Andhra Pradesh, India",13.6287557,79.4191795,"locality, political",APPROXIMATE,,,,Tirupati,India,Andhra Pradesh,Chittoor,Chittoor,13.6287557,79.4191795
+WARANGAL,Ok,"Warangal, Telangana, India",17.9689008,79.5940544,"locality, political",APPROXIMATE,,,,Andagoli,India,Telangana,,,17.9689008,79.5940544
+SURYAPET,Ok,"Suryapet, Telangana, India",17.1353148,79.6333674,"locality, political",APPROXIMATE,,,,Suryapet,India,Telangana,Nalgonda,Nalgonda,17.1353148,79.6333674
+KAMMAREDDY,Ok,"Kamareddy, Telangana 503111, India",18.3239953,78.3343051,"locality, political",APPROXIMATE,,,503111,Kamareddy,India,Telangana,Nizamabad,Nizamabad,18.3239953,78.3343051
+BANSWADA,Ok,"Banswada, Telangana 503187, India",18.3818488,77.8758114,"locality, political",APPROXIMATE,,,503187,Banswada,India,Telangana,Nizamabad,Nizamabad,18.3818488,77.8758114
+NANDYAL,Ok,"Nandyal, Andhra Pradesh, India",15.4785694,78.4830934,"locality, political",APPROXIMATE,,,,Nandyal,India,Andhra Pradesh,Kurnool,Kurnool,15.4785694,78.4830934
+ADONI,Ok,"Adoni, Andhra Pradesh, India",15.6322227,77.2728368,"locality, political",APPROXIMATE,,,,Adoni,India,Andhra Pradesh,Kurnool,Kurnool,15.6322227,77.2728368
+KAKINADA,Ok,"Kakinada, Andhra Pradesh, India",16.9890648,82.2474648,"locality, political",APPROXIMATE,,,,Kakinada,India,Andhra Pradesh,East Godavari,East Godavari,16.9890648,82.2474648
+MEHBOOBNAGAR,Ok,"Mahbubnagar, Telangana 509001, India",16.7375089,78.0081221,"locality, political",APPROXIMATE,,,509001,Mahbubnagar,India,Telangana,Mahabubnagar,Mahabubnagar,16.7375089,78.0081221
+SRIKAKULAM,Ok,"Srikakulam, Andhra Pradesh, India",18.294846,83.8937761,"locality, political",APPROXIMATE,,,,Srikakulam,India,Andhra Pradesh,Srikakulam,Srikakulam,18.294846,83.8937761
+KHAMMAM,Ok,"Khammam, Telangana, India",17.2472528,80.1514447,"locality, political",APPROXIMATE,,,,Khammam,India,Telangana,Khammam,Khammam,17.2472528,80.1514447
+ITANAGAR,Ok,Itanagar,27.0843682,93.6053163,"locality, political",APPROXIMATE,,,,Itanagar,,,,,27.0843682,93.6053163
+PASSIGHAT,Ok,Pasighat 791102,28.061899,95.3259358,"locality, political",APPROXIMATE,,,791102,Pasighat,,,,,28.061899,95.3259358
+TAWANG,Ok,Tawang,27.5780678,91.8757422,"locality, political",APPROXIMATE,,,,Tawang,,,,,27.5780678,91.8757422
+TEZU,Ok,"Tezu, Arunachal Pradesh 792001, India",27.9338514,96.1580011,"locality, political",APPROXIMATE,,,792001,Tezu,India,Arunachal Pradesh,Lohit,Lohit,27.9338514,96.1580011
+ZIRO,Ok,Ziro 791120,27.5447808,93.8196128,"locality, political",APPROXIMATE,,,791120,Ziro,,,,,27.5447808,93.8196128
+ZEMITHANG,Ok,Zemithang 790106,27.7097349,91.7289422,"locality, political",APPROXIMATE,,,790106,Zemithang,,,,,27.7097349,91.7289422
+KALAKTANG,Ok,Kalaktang 790002,27.104344,92.1137789,"locality, political",APPROXIMATE,,,790002,Kalaktang,,,,,27.104344,92.1137789
+BOMDILA,Ok,Bomdila 790001,27.2644943,92.4159308,"locality, political",APPROXIMATE,,,790001,Bomdila,,,,,27.2644943,92.4159308
+TALIHA,Ok,Taliha 791122,28.2353821,94.1449788,"locality, political",APPROXIMATE,,,791122,Taliha,,,,,28.2353821,94.1449788
+SEPPA,Ok,Seppa 790102,27.3610123,93.0400945,"locality, political",APPROXIMATE,,,790102,Seppa,,,,,27.3610123,93.0400945
+BASAR,Ok,"Basar, Telangana, India",18.8801751,77.9538767,"locality, political",APPROXIMATE,,,,Basar,India,Telangana,Adilabad,Adilabad,51.10674,10.6390201
+ALONG,Ok,"5000 Charles Page Blvd, Tulsa, OK 74127, USA",36.1476579,-96.0493684,"establishment, point_of_interest",ROOFTOP,5000,Charles Page Boulevard,74127,Tulsa,United States,Oklahoma,Tulsa County,Tulsa County,49.4093614,8.7034001
+MIAO,Ok,"795 N Mountain Ave, Upland, CA 91786, USA",34.1030431,-117.6706957,"dentist, establishment, health, point_of_interest",ROOFTOP,795,North Mountain Avenue,91786,Upland,United States,California,San Bernardino County,San Bernardino County,50.0292095,8.7097871
+ROING,Ok,"Roing, Arunachal Pradesh 792110, India",28.1428773,95.8431495,"locality, political",APPROXIMATE,,,792110,Roing,India,Arunachal Pradesh,Lower Dibang Valley,Lower Dibang Valley,28.1428773,95.8431495
+HUNLI,Ok,Hunli 792110,28.3235338,95.9627714,"locality, political",APPROXIMATE,,,792110,Hunli,,,,,28.3235338,95.9627714
+YOMCHA,Ok,Yomcha 791001,28.3950608,94.7510397,"locality, political",APPROXIMATE,,,791001,Yomcha,,,,,28.3950608,94.7510397
+NAMSAI,Ok,"Namsai, Arunachal Pradesh 792103, India",27.6692115,95.8644018,"locality, political",APPROXIMATE,,,792103,Namsai,India,Arunachal Pradesh,,,27.6692115,95.8644018
+HAWAI,Ok,"Hawaii, USA",19.8967662,-155.5827818,"administrative_area_level_1, political",APPROXIMATE,,,,,United States,Hawaii,,,19.8967662,-155.5827818
+GEKU,Ok,"Knights Park Industrial Estate, Knight Rd, Rochester ME2 2LS, UK",51.3907202,0.4872264,"establishment, point_of_interest",ROOFTOP,,Knight Road,ME2 2LS,,United Kingdom,England,Medway,Medway,52.42686,8.74869
+DEOMALI,Ok,"Deomali, Barakutni, Odisha 763008",18.6747727,82.9823595,"establishment, natural_feature",APPROXIMATE,,,763008,Barakutni,India,Odisha,Koraput,Koraput,18.6747727,82.9823595
+DHUBRI,Ok,"Dhubri, Assam, India",26.0206982,89.9743463,"locality, political",APPROXIMATE,,,,Dhubri,India,Assam,Dhubri,Dhubri,26.0206982,89.9743463
+DIBRUGARH,Ok,"Dibrugarh, Assam, India",27.4728327,94.9119621,"locality, political",APPROXIMATE,,,,Dibrugarh,India,Assam,Dibrugarh,Dibrugarh,27.4728327,94.9119621
+DIPHU,Ok,"Diphu, Assam, India",25.846525,93.4298746,"locality, political",APPROXIMATE,,,,Diphu,India,Assam,Karbi Anglong,Karbi Anglong,25.846525,93.4298746
+GUWAHATI,Ok,"Guwahati, Assam, India",26.1445169,91.7362365,"locality, political",APPROXIMATE,,,,Guwahati,India,Assam,Kamrup,Kamrup,26.1445169,91.7362365
+JORHAT,Ok,"Jorhat, Assam, India",26.7465203,94.2025859,"locality, political",APPROXIMATE,,,,Jorhat,India,Assam,Jorhat,Jorhat,26.7465203,94.2025859
+KOKRAJHAR,Ok,"Kokrajhar, Assam 783370, India",26.4014362,90.266699,"locality, political",APPROXIMATE,,,783370,Kokrajhar,India,Assam,Kokrajhar,Kokrajhar,26.4014362,90.266699
+NOWGONG,Ok,"Nowgong, Madhya Pradesh 471201, India",25.0622533,79.4396622,"locality, political",APPROXIMATE,,,471201,Nowgong,India,Madhya Pradesh,Chhatarpur,Chhatarpur,25.0622533,79.4396622
+SILCHAR,Ok,"Silchar, Assam, India",24.8332708,92.7789054,"locality, political",APPROXIMATE,,,,Silchar,India,Assam,Cachar,Cachar,24.8332708,92.7789054
+TEZPUR,Ok,"Tezpur, Assam, India",26.6528495,92.7925592,"locality, political",APPROXIMATE,,,,Tezpur,India,Assam,Sonitpur,Sonitpur,26.6528495,92.7925592
+MARGHERITA,Ok,"197 Grand St, New York, NY 10013, USA",40.7190305,-73.9970211,"establishment, food, meal_delivery, meal_takeaway, point_of_interest, restaurant",ROOFTOP,197,Grand Street,10013,New York,United States,New York,New York County,New York County,51.7846846,10.0605132
+TINSUKIA,Ok,"Tinsukia, Assam, India",27.4921909,95.346775,"locality, political",APPROXIMATE,,,,Tinsukia,India,Assam,Tinsukia,Tinsukia,27.4921909,95.346775
+NAZIRA,Ok,"Nazira, Assam, India",26.9006575,94.7225793,"locality, political",APPROXIMATE,,,,Nazira,India,Assam,Sivasagar,Sivasagar,26.9006575,94.7225793
+NORTH LAKHIMPUR,Ok,"North Lakhimpur, Assam, India",27.2253189,94.1053307,"locality, political",APPROXIMATE,,,,North Lakhimpur,India,Assam,Lakhimpur,Lakhimpur,27.2253189,94.1053307
+BHAGALPUR,Ok,"Bhagalpur, Bihar, India",25.3478004,86.9824288,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Bihar,Bhagalpur,Bhagalpur,25.3478004,86.9824288
+DARBHANGA,Ok,"Darbhanga, Bihar, India",26.111868,85.896004,"locality, political",APPROXIMATE,,,,Darbhanga,India,Bihar,Darbhanga,Darbhanga,26.111868,85.896004
+GAYA,Ok,"Gaya, Bihar, India",24.7913957,85.0002336,"locality, political",APPROXIMATE,,,,Gaya,India,Bihar,Gaya,Gaya,24.7913957,85.0002336
+PATNA,Ok,"Patna, Bihar, India",25.5940947,85.1375645,"locality, political",APPROXIMATE,,,,Patna,India,Bihar,Patna,Patna,25.5940947,85.1375645
+PURNEA,Ok,"Purnea, Bihar, India",25.7771391,87.4752551,"locality, political",APPROXIMATE,,,,Purnea,India,Bihar,Purnia,Purnia,25.7771391,87.4752551
+SITAMARHI,Ok,"Sitamarhi, Bihar, India",26.5952476,85.4808393,"locality, political",APPROXIMATE,,,,Sitamarhi,India,Bihar,Sitamarhi,Sitamarhi,26.5952476,85.4808393
+SASARAM,Ok,"Sasaram, Bihar 821115, India",24.949036,84.0314295,"locality, political",APPROXIMATE,,,821115,Sasaram,India,Bihar,Rohtas,Rohtas,24.949036,84.0314295
+AURANGABAD,Ok,"Aurangabad, Maharashtra, India",19.8761653,75.3433139,"locality, political",APPROXIMATE,,,,Aurangabad,India,Maharashtra,Aurangabad,Aurangabad,19.8761653,75.3433139
+MUZAFFARPUR,Ok,"Muzaffarpur, Bihar, India",26.1208876,85.3647201,"locality, political",APPROXIMATE,,,,Muzaffarpur,India,Bihar,Muzaffarpur,Muzaffarpur,26.1208876,85.3647201
+BETTIAH,Ok,"Bettiah, Bihar, India",26.8028048,84.5169757,"locality, political",APPROXIMATE,,,,Bettiah,India,Bihar,Pashchim Champaran,Pashchim Champaran,26.8028048,84.5169757
+MOTIHARI,Ok,"Motihari, Bihar, India",26.6438482,84.9040337,"locality, political",APPROXIMATE,,,,Motihari,India,Bihar,Purvi Champaran,Purvi Champaran,26.6438482,84.9040337
+MADHUBANI,"3 found, use single geocode.","Madhubani, Bihar, India",26.4627955,86.1751759,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Bihar,Madhubani,Madhubani,26.4627955,86.1751759
+FORBESGANJ,Ok,"Forbesganj, Bihar, India",26.2992736,87.2666121,"locality, political",APPROXIMATE,,,,Forbesganj,India,Bihar,Araria,Araria,26.2992736,87.2666121
+KISHAN GANJ,Ok,"Kishanganj, Bihar, India",26.0917422,87.9383822,"locality, political",APPROXIMATE,,,,Kishanganj,India,Bihar,Kishanganj,Kishanganj,26.0917422,87.9383822
+SUPAUL,Ok,"Supaul, Bihar, India",26.2899113,86.8220341,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Bihar,Supaul,Supaul,26.2899113,86.8220341
+AMBIKAPUR,Ok,"Ambikapur, Chhattisgarh, India",23.1354921,83.1817856,"locality, political",APPROXIMATE,,,,Ambikapur,India,Chhattisgarh,Surguja,Surguja,23.1354921,83.1817856
+BILASPUR,Ok,"Bilaspur, Chhattisgarh, India",22.0796251,82.1391412,"locality, political",APPROXIMATE,,,,Bilaspur,India,Chhattisgarh,Bilaspur,Bilaspur,22.0796251,82.1391412
+JAGDALPUR,Ok,"Jagdalpur, Chhattisgarh, India",19.0740973,82.008014,"locality, political",APPROXIMATE,,,,Jagdalpur,India,Chhattisgarh,Bastar,Bastar,19.0740973,82.008014
+RAIGARH,Ok,"Raigarh, Chhattisgarh 496001, India",21.8974003,83.3949632,"locality, political",APPROXIMATE,,,496001,Raigarh,India,Chhattisgarh,Raigarh,Raigarh,21.8974003,83.3949632
+RAIPUR,Ok,"Raipur, Chhattisgarh, India",21.2513844,81.6296413,"locality, political",APPROXIMATE,,,,Raipur,India,Chhattisgarh,Raipur,Raipur,21.2513844,81.6296413
+SARAIPALLI,Ok,"Saraipali, Chhattisgarh 493558, India",21.3320233,82.9974681,"locality, political",APPROXIMATE,,,493558,Saraipali,India,Chhattisgarh,Mahasamund,Mahasamund,21.3320233,82.9974681
+MANINDRAGARH,"Ok, partial match","Manendragarh, Chhattisgarh, India",23.2138905,82.201276,"locality, political",APPROXIMATE,,,,Manendragarh,India,Chhattisgarh,Koriya,Koriya,23.2138905,82.201276
+KONTA,Ok,"Konta, Chhattisgarh 494114, India",17.8075327,81.3866812,"locality, political",APPROXIMATE,,,494114,Konta,India,Chhattisgarh,Dantewada,Dantewada,17.8075327,81.3866812
+KHAROD,Ok,"Kharod, Chhattisgarh, India",21.7472169,82.5807913,"locality, political",APPROXIMATE,,,,Kharod,India,Chhattisgarh,Janjgir-Champa,Janjgir-Champa,21.7472169,82.5807913
+KORBA,Ok,"Korba, Chhattisgarh, India",22.3594501,82.7500595,"locality, political",APPROXIMATE,,,,Korba,India,Chhattisgarh,Korba,Korba,22.3594501,82.7500595
+PANDARIA,Ok,"8305 Broadway St, San Antonio, TX 78209, USA",29.5133521,-98.4665174,"bakery, cafe, establishment, food, point_of_interest, restaurant, store",ROOFTOP,8305,Broadway Street,78209,San Antonio,United States,Texas,Bexar County,Bexar County,48.5707981,13.4319853
+KANKER,Ok,"Kanker, Chhattisgarh, India",20.1990123,81.0754657,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Chhattisgarh,Kanker,Kanker,20.1990123,81.0754657
+DONGARGARH,Ok,"Dongargarh, Chhattisgarh 491445, India",21.1802432,80.7602394,"locality, political",APPROXIMATE,,,491445,Dongargarh,India,Chhattisgarh,Rajnandgaon,Rajnandgaon,21.1802432,80.7602394
+DELHI [1],"2 found, use single geocode.","Tughlakabad Institutional Area, Vayusenabad, New Delhi, Delhi 110062, India",28.5128403,77.2435427,"establishment, point_of_interest, university",GEOMETRIC_CENTER,,,110062,New Delhi,India,Delhi,South Delhi,South Delhi,28.5128403,77.2435427
+PANAJI,Ok,"Panaji, Goa, India",15.4909301,73.8278496,"locality, political",APPROXIMATE,,,,Panaji,India,Goa,North Goa,North Goa,15.4909301,73.8278496
+AHMEDABAD,Ok,"Ahmedabad, Gujarat, India",23.022505,72.5713621,"locality, political",APPROXIMATE,,,,Ahmedabad,India,Gujarat,Ahmedabad,Ahmedabad,23.022505,72.5713621
+AHWA,Ok,"Ahwa, Gujarat 394710, India",20.7584495,73.6864183,"locality, political",APPROXIMATE,,,394710,Ahwa,India,Gujarat,Dang,Dang,20.7584495,73.6864183
+BHUJ,Ok,"Bhuj, Gujarat, India",23.2419997,69.6669324,"locality, political",APPROXIMATE,,,,Bhuj,India,Gujarat,Kutch,Kutch,23.2419997,69.6669324
+GODHRA,Ok,"Godhra, Gujarat, India",22.7788044,73.6142795,"locality, political",APPROXIMATE,,,,Godhra,India,Gujarat,Panchmahal,Panchmahal,22.7788044,73.6142795
+RAJKOT,Ok,"Rajkot, Gujarat, India",22.3038945,70.8021599,"locality, political",APPROXIMATE,,,,Rajkot,India,Gujarat,Rajkot,Rajkot,22.3038945,70.8021599
+SURAT,Ok,"Surat, Gujarat, India",21.1702401,72.8310607,"locality, political",APPROXIMATE,,,,Surat,India,Gujarat,Surat,Surat,21.1702401,72.8310607
+VADODRA,Ok,"Vadodara, Gujarat, India",22.3071588,73.1812187,"locality, political",APPROXIMATE,,,,Vadodara,India,Gujarat,Vadodara,Vadodara,22.3071588,73.1812187
+HIMMATNAGAR,Ok,"Himmatnagar, Gujarat, India",23.6036268,72.9639461,"locality, political",APPROXIMATE,,,,Himmatnagar,India,Gujarat,Sabarkatha,Sabarkatha,23.6036268,72.9639461
+MEHSANA,Ok,"Mehsana, Gujarat, India",23.5879607,72.3693252,"locality, political",APPROXIMATE,,,,Mehsana,India,Gujarat,Mehsana,Mehsana,23.5879607,72.3693252
+BHAVNAGAR,Ok,"Bhavnagar, Gujarat, India",21.7644725,72.1519304,"locality, political",APPROXIMATE,,,,Bhavnagar,India,Gujarat,Bhavnagar,Bhavnagar,21.7644725,72.1519304
+BHARUCH,Ok,"Bharuch, Gujarat, India",21.7051358,72.9958748,"locality, political",APPROXIMATE,,,,Bharuch,India,Gujarat,Bharuch,Bharuch,21.7051358,72.9958748
+JAMNAGAR,Ok,"Jamnagar, Gujarat, India",22.4707019,70.05773,"locality, political",APPROXIMATE,,,,Jamnagar,India,Gujarat,Jamnagar,Jamnagar,22.4707019,70.05773
+PORBANDAR,Ok,"Porbandar, Gujarat, India",21.6417069,69.6292654,"locality, political",APPROXIMATE,,,,Porbandar,India,Gujarat,Porbandar,Porbandar,21.6417069,69.6292654
+DWARKA,Ok,"Dwarka, Gujarat, India",22.2441975,68.9684562,"locality, political",APPROXIMATE,,,,Dwarka,India,Gujarat,Jamnagar,Jamnagar,22.2441975,68.9684562
+JUNAGARH,Ok,"Junagadh, Gujarat, India",21.522184,70.4578768,"locality, political",APPROXIMATE,,,,Junagadh,India,Gujarat,Junagadh,Junagadh,21.522184,70.4578768
+HISSAR,Ok,"Hisar, Haryana, India",29.1491875,75.7216527,"locality, political",APPROXIMATE,,,,Hisar,India,Haryana,Hisar,Hisar,29.1491875,75.7216527
+KURUKSHETRA,Ok,"Kurukshetra, Haryana, India",29.9695121,76.878282,"locality, political",APPROXIMATE,,,,Kurukshetra,India,Haryana,Kurukshetra,Kurukshetra,29.9695121,76.878282
+ROHTAK,Ok,"Rohtak, Haryana, India",28.8955152,76.606611,"locality, political",APPROXIMATE,,,,Rohtak,India,Haryana,Rohtak,Rohtak,28.8955152,76.606611
+SIRSA,Ok,"Sirsa, Haryana 125055, India",29.5335931,75.0177029,"locality, political",APPROXIMATE,,,125055,Sirsa,India,Haryana,Sirsa,Sirsa,29.5335931,75.0177029
+AMBALA,Ok,"Ambala, Haryana, India",30.3781788,76.7766974,"locality, political",APPROXIMATE,,,,Ambala,India,Haryana,Ambala,Ambala,30.3781788,76.7766974
+BHARMOUR,Ok,"Bharmour, Himachal Pradesh 176315, India",32.442849,76.5329269,"locality, political",APPROXIMATE,,,176315,Bharmour,India,Himachal Pradesh,Chamba,Chamba,32.442849,76.5329269
+DHARMSHALA,Ok,"Dharamshala, Himachal Pradesh, India",32.219042,76.3234037,"locality, political",APPROXIMATE,,,,Dharamshala,India,Himachal Pradesh,Kangra,Kangra,32.219042,76.3234037
+HAMIRPUR,Ok,"Hamirpur, Himachal Pradesh, India",31.6861745,76.5213092,"locality, political",APPROXIMATE,,,,Hamirpur,India,Himachal Pradesh,Hamirpur,Hamirpur,31.6861745,76.5213092
+KASAULI,Ok,"Kasauli, Himachal Pradesh, India",30.90129,76.9648753,"locality, political",APPROXIMATE,,,,Kasauli,India,Himachal Pradesh,Solan,Solan,30.90129,76.9648753
+KINNAUR(KALPA),Ok,"Kalpa, Reckong Peo, Himachal Pradesh 172107, India",31.5376578,78.2753776,"political, sublocality, sublocality_level_1",APPROXIMATE,,,172107,Reckong Peo,India,Himachal Pradesh,Kinnaur,Kinnaur,31.5376578,78.2753776
+KULLU,Ok,"Kullu, Himachal Pradesh 175101, India",31.957851,77.1094597,"locality, political",APPROXIMATE,,,175101,Kullu,India,Himachal Pradesh,Kullu,Kullu,31.957851,77.1094597
+SHIMLA,Ok,"Shimla, Himachal Pradesh, India",31.1048145,77.1734033,"locality, political",APPROXIMATE,,,,Shimla,India,Himachal Pradesh,Shimla,Shimla,31.1048145,77.1734033
+KEYLONG,Ok,"Keylong, Himachal Pradesh 175132, India",32.5709987,77.0319784,"locality, political",APPROXIMATE,,,175132,Keylong,India,Himachal Pradesh,Lahaul And Spiti,Lahaul And Spiti,32.5709987,77.0319784
+RAMPUR,Ok,"Rampur, Uttar Pradesh 244901, India",28.7893041,79.0249516,"locality, political",APPROXIMATE,,,244901,Rampur,India,Uttar Pradesh,Rampur,Rampur,28.7893041,79.0249516
+BERTHEIN,No result,,,,,,,,,,,,,,31.420203,76.643768
+MANDI,Ok,"5515 Wilson Blvd, Arlington, VA 22205, USA",38.8767388,-77.1278777,"establishment, food, point_of_interest, restaurant",ROOFTOP,5515,Wilson Boulevard,22205,Arlington,United States,Virginia,Arlington County,Arlington County,52.5517145,13.3553943
+BILASPUR,Ok,"Bilaspur, Chhattisgarh, India",22.0796251,82.1391412,"locality, political",APPROXIMATE,,,,Bilaspur,India,Chhattisgarh,Bilaspur,Bilaspur,22.0796251,82.1391412
+SUNDER NAGAR,Ok,"Sundernagar, Himachal Pradesh, India",31.5332397,76.8922729,"locality, political",APPROXIMATE,,,,Sundernagar,India,Himachal Pradesh,Mandi,Mandi,31.5332397,76.8922729
+MANALI,Ok,"Manali, Himachal Pradesh, India",32.2396325,77.1887145,"locality, political",APPROXIMATE,,,,Manali,India,Himachal Pradesh,Kullu,Kullu,32.2396325,77.1887145
+CHAMBA,Ok,"Chamba, Himachal Pradesh, India",32.5533633,76.1258083,"locality, political",APPROXIMATE,,,,Chamba,India,Himachal Pradesh,Chamba,Chamba,32.5533633,76.1258083
+CHAURIKHAS,"Ok, partial match","Chauri Khas, Uttar Pradesh 221402, India",25.3790835,82.6255526,"locality, political",APPROXIMATE,,,221402,Chauri Khas,India,Uttar Pradesh,Sant Ravidas Nagar,Sant Ravidas Nagar,25.3790835,82.6255526
+JAMMU,Ok,Jammu and Kashmir,33.778175,76.5761714,"administrative_area_level_1, political",APPROXIMATE,,,,,,Jammu and Kashmir,,,32.7266016,74.8570259
+KARGIL,Ok,Kargil 194103,34.5538522,76.1348944,"locality, political",APPROXIMATE,,,194103,Kargil,,,,,34.5538522,76.1348944
+KATHUA,Ok,Kathua,32.3864799,75.5172688,"locality, political",APPROXIMATE,,,,Kathua,,,,,32.3864799,75.5172688
+LEH,Ok,Leh,34.1525864,77.5770535,"locality, political",APPROXIMATE,,,,Leh,,,,,34.1525864,77.5770535
+POONCH,Ok,Poonch 185101,33.7670014,74.0924041,"locality, political",APPROXIMATE,,,185101,Poonch,,,,,33.7670014,74.0924041
+SRINAGAR,Ok,Srinagar,34.0836708,74.7972825,"locality, political",APPROXIMATE,,,,Srinagar,,,,,34.0836708,74.7972825
+BHADARWAH,Ok,Bhaderwah 182222,32.9830255,75.7109806,"locality, political",APPROXIMATE,,,182222,Bhaderwah,,,,,32.9830255,75.7109806
+KUPWARA,Ok,Kupwara,34.4319232,74.123996,"administrative_area_level_2, political",APPROXIMATE,,,,,,,Kupwara,Kupwara,34.4319232,74.123996
+KHALSI,Ok,Khalsi 194106,34.3200775,76.8793025,"locality, political",APPROXIMATE,,,194106,Khalsi,,,,,34.3200775,76.8793025
+NAUSHERA,Ok,Naushera,33.1603855,74.2443436,"locality, political",APPROXIMATE,,,,Naushera,,,,,33.1603855,74.2443436
+RAJOURI,Ok,Rajouri,33.3716143,74.315191,"locality, political",APPROXIMATE,,,,Rajouri,,,,,33.3716143,74.315191
+DRASS,Ok,Dras 194102,34.4269074,75.7458708,"locality, political",APPROXIMATE,,,194102,Dras,,,,,34.4269074,75.7458708
+TIESURU,No result,,,,,,,,,,,,,,ZERO_RESULTS,ZERO_RESULTS
+NYOMA,Ok,Nyoma 194404,33.2059163,78.6483843,"locality, political",APPROXIMATE,,,194404,Nyoma,,,,,33.2059163,78.6483843
+DISKIT,Ok,Diskit 194401,34.5485043,77.55621,"locality, political",APPROXIMATE,,,194401,Diskit,,,,,34.5409579,77.5606881
+PADUM,Ok,Padum 194302,33.4628013,76.8785819,"locality, political",APPROXIMATE,,,194302,Padum,,,,,33.4628013,76.8785819
+TITHWAL,Ok,Teetwal,34.391564,73.7727908,"locality, political",APPROXIMATE,,,,Teetwal,,,,,34.391564,73.7727908
+URI,Ok,"45 Upper College Rd, Kingston, RI 02881, USA",41.4860647,-71.5308537,"establishment, point_of_interest, university",ROOFTOP,45,Upper College Road,02881,South Kingstown,United States,Rhode Island,Washington County,Washington County,ZERO_RESULTS,ZERO_RESULTS
+MANGLADEVI FORT,"Ok, partial match","Mangla Hamlet, Jhelum, Punjab, Pakistan",33.0947109,73.6418473,"locality, political",APPROXIMATE,,,,Mangla Hamlet,Pakistan,Punjab,Jhelum,Jhelum,33.0947109,73.6418473
+UDHAMPUR,Ok,Udhampur 182101,32.9159847,75.1416173,"locality, political",APPROXIMATE,,,182101,Udhampur,,,,,32.9159847,75.1416173
+GUREJ,Ok,"Gurez Valley, Forest Block",34.6494398,74.736633,"political, sublocality, sublocality_level_1",APPROXIMATE,,,,Forest Block,,,,,34.6494398,74.736633
+TRAL,Ok,Tral 192123,33.934218,75.1136721,"locality, political",APPROXIMATE,,,192123,Tral,,,,,33.934218,75.1136721
+BIMBARGALLI,No result,,,,,,,,,,,,,,ZERO_RESULTS,ZERO_RESULTS
+PAHALGAM,Ok,Pahalgam,34.0160751,75.3149796,"locality, political",APPROXIMATE,,,,Pahalgam,,,,,34.0160751,75.3149796
+CHAIBASA,Ok,"Chaibasa, Jharkhand, India",22.5474364,85.8025373,"locality, political",APPROXIMATE,,,,Chaibasa,India,Jharkhand,West Singhbhum,West Singhbhum,22.5474364,85.8025373
+DALTONGANJ,Ok,"Daltonganj, Jharkhand 822101, India",24.0420432,84.0907246,"locality, political",APPROXIMATE,,,822101,Daltonganj,India,Jharkhand,Palamu,Palamu,24.0420432,84.0907246
+HAJARIBAGH,Ok,"Hazaribagh, Jharkhand, India",23.9966213,85.3691068,"locality, political",APPROXIMATE,,,,Hazaribagh,India,Jharkhand,Hazaribagh,Hazaribagh,23.9966213,85.3691068
+JAMSHEDPUR,Ok,"Jamshedpur, Jharkhand, India",22.8045665,86.2028754,"locality, political",APPROXIMATE,,,,Jamshedpur,India,Jharkhand,East Singhbhum,East Singhbhum,22.8045665,86.2028754
+RANCHI,Ok,"Ranchi, Jharkhand, India",23.3440997,85.309562,"locality, political",APPROXIMATE,,,,Ranchi,India,Jharkhand,Ranchi,Ranchi,23.3440997,85.309562
+DHANBAD,Ok,"Dhanbad, Jharkhand, India",23.7956531,86.4303859,"locality, political",APPROXIMATE,,,,Dhanbad,India,Jharkhand,Dhanbad,Dhanbad,23.7956531,86.4303859
+CHATRA,"2 found, use single geocode.","Chatra, Jharkhand, India",24.1526331,84.8567932,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Jharkhand,Chatra,Chatra,24.2065083,84.8724284
+GHATSHILA,Ok,"Ghatshila, Jharkhand, India",22.587307,86.47438,"locality, political",APPROXIMATE,,,,Ghatshila,India,Jharkhand,East Singhbhum,East Singhbhum,22.587307,86.47438
+GUMLA,Ok,"Gumla, Jharkhand 835207, India",23.0441295,84.5379455,"locality, political",APPROXIMATE,,,835207,Gumla,India,Jharkhand,Gumla,Gumla,23.0441295,84.5379455
+BOKARO,Ok,"Bokaro Steel City, Jharkhand, India",23.6692956,86.151112,"locality, political",APPROXIMATE,,,,Bokaro Steel City,India,Jharkhand,Bokaro,Bokaro,23.6692956,86.151112
+GIRIDIH,Ok,"Giridih, Jharkhand, India",24.19135,86.2996368,"locality, political",APPROXIMATE,,,,Giridih,India,Jharkhand,Giridih,Giridih,24.19135,86.2996368
+DEOGHAR,Ok,"Deoghar, Jharkhand, India",24.4763201,86.6913222,"locality, political",APPROXIMATE,,,,Deoghar,India,Jharkhand,Deoghar,Deoghar,24.4763201,86.6913222
+DUMKA,"2 found, use single geocode.","Dumka, Jharkhand, India",24.2854664,87.2419299,"locality, political",APPROXIMATE,,,,Dumka,India,Jharkhand,Dumka,Dumka,24.2854664,87.2419299
+BANGALORE,Ok,"Bengaluru, Karnataka, India",12.9715987,77.5945627,"locality, political",APPROXIMATE,,,,Bengaluru,India,Karnataka,Bangalore Urban,Bangalore Urban,12.9715987,77.5945627
+BHADRAWATI,Ok,"Bhadravati, Maharashtra, India",20.1003298,79.1145675,"locality, political",APPROXIMATE,,,,Bhadravati,India,Maharashtra,Chandrapur,Chandrapur,20.1003298,79.1145675
+BELLARY,Ok,"Ballari, Karnataka, India",15.1393932,76.9214428,"locality, political",APPROXIMATE,,,,Ballari,India,Karnataka,Bellary,Bellary,15.1393932,76.9214428
+BIJAPUR,Ok,"Vijayapura, Karnataka, India",16.8301708,75.710031,"locality, political",APPROXIMATE,,,,Vijayapura,India,Karnataka,Bijapur,Bijapur,16.8301708,75.710031
+CHITRADURG,Ok,"Chitradurga, Karnataka, India",14.2305594,76.3984537,"locality, political",APPROXIMATE,,,,Chitradurga,India,Karnataka,Chitradurga,Chitradurga,14.2305594,76.3984537
+DHARWAD,Ok,"Dharwad, Karnataka, India",15.4589236,75.007808,"locality, political",APPROXIMATE,,,,Dharwad,India,Karnataka,Dharwad,Dharwad,15.4589236,75.007808
+GULBARGA,Ok,"Kalaburagi, Karnataka, India",17.329731,76.8342957,"locality, political",APPROXIMATE,,,,Kalaburagi,India,Karnataka,Gulbarga,Gulbarga,17.329731,76.8342957
+HASSAN,"2 found, use single geocode.","Hassan, Karnataka, India",13.0068142,76.0995519,"locality, political",APPROXIMATE,,,,Hassan,India,Karnataka,Hassan,Hassan,13.0068142,76.0995519
+HOSPET,Ok,"Hosapete, Karnataka, India",15.2688542,76.3909241,"locality, political",APPROXIMATE,,,,Hosapete,India,Karnataka,Bellary,Bellary,15.2688542,76.3909241
+KARWAR,Ok,"Karwar, Karnataka, India",14.8184812,74.1416127,"locality, political",APPROXIMATE,,,,Karwar,India,Karnataka,Uttara Kannada,Uttara Kannada,14.8184812,74.1416127
+MANGALORE/UDIPI,"Ok, partial match","Padu, Karnataka 574106, India",13.2234091,74.7373136,"establishment, natural_feature, point_of_interest",GEOMETRIC_CENTER,,,574106,Padu,India,Karnataka,Udupi,Udupi,13.3437171,74.7465056
+MERCARA (Madikeri),Ok,"Madikeri, Karnataka 571201, India",12.4244205,75.7381856,"locality, political",APPROXIMATE,,,571201,Madikeri,India,Karnataka,Kodagu,Kodagu,12.4244205,75.7381856
+MYSORE,Ok,"Mysuru, Karnataka, India",12.2958104,76.6393805,"locality, political",APPROXIMATE,,,,Mysuru,India,Karnataka,Mysuru,Mysuru,12.2958104,76.6393805
+RAICHUR,Ok,"Raichur, Karnataka, India",16.2120031,77.3439283,"locality, political",APPROXIMATE,,,,Raichur,India,Karnataka,Raichur,Raichur,16.2120031,77.3439283
+SRINGERI,Ok,"Sringeri, Karnataka 577139, India",13.4197675,75.2566564,"locality, political",APPROXIMATE,,,577139,Sringeri,India,Karnataka,Chikkamagaluru,Chikkamagaluru,13.4197675,75.2566564
+TUMKUR,Ok,"Tumakuru, Karnataka, India",13.3391677,77.1139984,"locality, political",APPROXIMATE,,,,Tumakuru,India,Karnataka,Tumkur,Tumkur,13.3391677,77.1139984
+HOSDURG,Ok,"Hosdurg, Kanhangad, Kerala 671315, India",12.3059296,75.094695,"political, sublocality, sublocality_level_1",APPROXIMATE,,,671315,Kanhangad,India,Kerala,Kasaragod,Kasaragod,12.3059296,75.094695
+DAVANGERE,Ok,"Davanagere, Karnataka, India",14.4644085,75.921758,"locality, political",APPROXIMATE,,,,Davanagere,India,Karnataka,Davanagere,Davanagere,14.4644085,75.921758
+SAGAR,Ok,"16825 Hillside Avenue, Jamaica, NY 11432, USA",40.7104442,-73.7940917,"establishment, food, point_of_interest, restaurant",ROOFTOP,16825,Hillside Avenue,11432,,United States,New York,Queens County,Queens County,23.838805,78.7378068
+KUMTA,Ok,"Kumta, Karnataka, India",14.4275482,74.4190929,"locality, political",APPROXIMATE,,,,Kumta,India,Karnataka,Uttara Kannada,Uttara Kannada,14.4275482,74.4190929
+ALLEPPY (Alappuzha),Ok,"Alappuzha, Kerala, India",9.4980667,76.3388484,"locality, political",APPROXIMATE,,,,Alappuzha,India,Kerala,Alappuzha,Alappuzha,9.4980667,76.3388484
+CALICUT (Kozhikode),Ok,"Kozhikode, Kerala, India",11.2587531,75.78041,"locality, political",APPROXIMATE,,,,Kozhikode,India,Kerala,Kozhikode,Kozhikode,11.2587531,75.78041
+CANNANOR (Kannur),Ok,"Kannur, Kerala, India",11.8744775,75.3703662,"locality, political",APPROXIMATE,,,,Kannur,India,Kerala,Kannur,Kannur,11.8744775,75.3703662
+COCHIN (Kochi),Ok,"Kochi, Kerala, India",9.9312328,76.2673041,"locality, political",APPROXIMATE,,,,Kochi,India,Kerala,Ernakulam,EKM,9.9312328,76.2673041
+IDUKKI (DEVIKULAM),Ok,"Devikulam, Kerala, India",10.0564306,77.1197521,"locality, political",APPROXIMATE,,,,Devikulam,India,Kerala,Idukki,Idukki,10.0564306,77.1197521
+TRICHUR (Thrissur),Ok,"Thrissur, Kerala, India",10.5276416,76.2144349,"locality, political",APPROXIMATE,,,,Thrissur,India,Kerala,Thrissur,TSR,10.5276416,76.2144349
+THIRUVANANTHAPURAM,Ok,"Thiruvananthapuram, Kerala, India",8.5241391,76.9366376,"locality, political",APPROXIMATE,,,,Thiruvananthapuram,India,Kerala,Thiruvananthapuram,TVM,8.5241391,76.9366376
+MANJERI,Ok,"Manjeri, Kerala, India",11.1202984,76.1199677,"locality, political",APPROXIMATE,,,,Manjeri,India,Kerala,Malappuram,Malappuram,11.1202984,76.1199677
+PUNALUR,Ok,"Punalur, Kerala, India",9.009768,76.9297354,"locality, political",APPROXIMATE,,,,Punalur,India,Kerala,Kollam,KLM,9.009768,76.9297354
+KALPETTA,Ok,"Kalpetta, Kerala, India",11.6103389,76.0828128,"locality, political",APPROXIMATE,,,,Kalpetta,India,Kerala,Wayanad,Wayanad,11.6103389,76.0828128
+KASARGODE,"Ok, partial match","Kasaragod, Kerala, India",12.4386702,75.201229,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Kerala,Kasaragod,Kasaragod,12.4386702,75.201229
+BALAGHAT,Ok,"Balaghat, Madhya Pradesh, India",21.812876,80.1838293,"locality, political",APPROXIMATE,,,,Balaghat,India,Madhya Pradesh,Balaghat,Balaghat,21.812876,80.1838293
+BETUL,Ok,"Betul, Madhya Pradesh 460001, India",21.9011601,77.8960201,"locality, political",APPROXIMATE,,,460001,Betul,India,Madhya Pradesh,Betul,Betul,21.9011601,77.8960201
+BHOPAL,Ok,"Bhopal, Madhya Pradesh, India",23.2599333,77.412615,"locality, political",APPROXIMATE,,,,Bhopal,India,Madhya Pradesh,Bhopal,Bhopal,23.2599333,77.412615
+CHHATARPUR,Ok,"Chhatarpur, Madhya Pradesh 471001, India",24.9163562,79.5811827,"locality, political",APPROXIMATE,,,471001,Chhatarpur,India,Madhya Pradesh,Chhatarpur,Chhatarpur,24.9163562,79.5811827
+CHHINDWARA,Ok,"Chhindwara, Madhya Pradesh 480001, India",22.057437,78.9381729,"locality, political",APPROXIMATE,,,480001,Chhindwara,India,Madhya Pradesh,Chhindwara,Chhindwara,22.057437,78.9381729
+GUNA,"2 found, use single geocode.","3724 Crescent Ct W, Whitehall, PA 18052, USA",40.652801,-75.49831,"establishment, health, point_of_interest",ROOFTOP,3724,Crescent Court West,18052,Hokendauqua,United States,Pennsylvania,Lehigh County,Lehigh County,52.3868009,9.7518402
+GAWALIOR,Ok,"Gwalior, Madhya Pradesh, India",26.2182871,78.1828308,"locality, political",APPROXIMATE,,,,Gwalior,India,Madhya Pradesh,Gwalior,Gwalior,26.2182871,78.1828308
+INDORE,Ok,"Indore, Madhya Pradesh, India",22.7195687,75.8577258,"locality, political",APPROXIMATE,,,,Indore,India,Madhya Pradesh,Indore,Indore,22.7195687,75.8577258
+JABALPUR,Ok,"Jabalpur, Madhya Pradesh, India",23.181467,79.9864071,"locality, political",APPROXIMATE,,,,Jabalpur,India,Madhya Pradesh,Jabalpur,Jabalpur,23.181467,79.9864071
+KHANDWA,Ok,"Khandwa, Madhya Pradesh 450001, India",21.8257334,76.352571,"locality, political",APPROXIMATE,,,450001,Khandwa,India,Madhya Pradesh,Khandwa,Khandwa,21.8257334,76.352571
+PANCHMARHI,Ok,"Pachmarhi, Madhya Pradesh 461881, India",22.4674463,78.4345854,"locality, political",APPROXIMATE,,,461881,Pachmarhi,India,Madhya Pradesh,Hoshangabad,Hoshangabad,22.4674463,78.4345854
+REWA,Ok,"561 Mauldin Rd, Greenville, SC 29607, USA",34.800053,-82.3652161,"establishment, point_of_interest",ROOFTOP,561,Mauldin Road,29607,Greenville,United States,South Carolina,Greenville County,Greenville County,24.5372927,81.30418
+SAGAR,Ok,"16825 Hillside Avenue, Jamaica, NY 11432, USA",40.7104442,-73.7940917,"establishment, food, point_of_interest, restaurant",ROOFTOP,16825,Hillside Avenue,11432,,United States,New York,Queens County,Queens County,23.838805,78.7378068
+SHAHDOL,Ok,"Shahdol, Madhya Pradesh, India",23.3021885,81.3568021,"locality, political",APPROXIMATE,,,,Shahdol,India,Madhya Pradesh,Shahdol,Shahdol,23.3021885,81.3568021
+SHIVPURI,Ok,"Shivpuri, Madhya Pradesh 473551, India",25.4357869,77.665066,"locality, political",APPROXIMATE,,,473551,Shivpuri,India,Madhya Pradesh,Shivpuri,Shivpuri,25.4357869,77.665066
+MANDLA,Ok,"Mandla, Madhya Pradesh, India",22.5979218,80.3713855,"locality, political",APPROXIMATE,,,,Mandla,India,Madhya Pradesh,Mandla,Mandla,22.5979218,80.3713855
+RAJGARH,Ok,"Rajgarh, Madhya Pradesh, India",23.8508581,76.7336521,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Madhya Pradesh,Rajgarh,Rajgarh,23.8508581,76.7336521
+NEEMUCH,Ok,"Neemuch, Madhya Pradesh 458441, India",24.4763852,74.8624092,"locality, political",APPROXIMATE,,,458441,Neemuch,India,Madhya Pradesh,Neemuch,Neemuch,24.4763852,74.8624092
+MANDSAUR,Ok,"Mandsaur, Madhya Pradesh, India",24.076836,75.0692952,"locality, political",APPROXIMATE,,,,Mandsaur,India,Madhya Pradesh,Mandsaur,Mandsaur,24.076836,75.0692952
+SATNA,Ok,"Satna, Madhya Pradesh, India",24.6005075,80.8322428,"locality, political",APPROXIMATE,,,,Satna,India,Madhya Pradesh,Satna,Satna,24.6005075,80.8322428
+HARDA,Ok,"Harda, Madhya Pradesh 461331, India",22.3355446,77.0996085,"locality, political",APPROXIMATE,,,461331,Harda,India,Madhya Pradesh,Harda,Harda,22.3355446,77.0996085
+CHANDERI,Ok,"Chanderi, Madhya Pradesh 473446, India",24.7128343,78.1364889,"locality, political",APPROXIMATE,,,473446,Chanderi,India,Madhya Pradesh,Ashoknagar,Ashoknagar,24.7128343,78.1364889
+UJJAIN,Ok,"Ujjain, Madhya Pradesh, India",23.1793013,75.7849097,"locality, political",APPROXIMATE,,,,Ujjain,India,Madhya Pradesh,Ujjain,Ujjain,23.1793013,75.7849097
+RATLAM,Ok,"Ratlam, Madhya Pradesh 457001, India",23.3341696,75.0376325,"locality, political",APPROXIMATE,,,457001,Ratlam,India,Madhya Pradesh,Ratlam,Ratlam,23.3341696,75.0376325
+JHABUA,Ok,"Jhabua, Madhya Pradesh 457661, India",22.769666,74.5920921,"locality, political",APPROXIMATE,,,457661,Jhabua,India,Madhya Pradesh,Jhabua,Jhabua,22.769666,74.5920921
+AHMEDNAGAR,Ok,"Ahmednagar, Maharashtra, India",19.0952075,74.7495916,"locality, political",APPROXIMATE,,,,Ahmednagar,India,Maharashtra,Ahmednagar,Ahmednagar,19.0952075,74.7495916
+AKOLA,"2 found, use single geocode.","Akola, Maharashtra, India",20.7002159,77.0081678,"locality, political",APPROXIMATE,,,,Akola,India,Maharashtra,Akola,Akola,20.7002159,77.0081678
+AURANGABAD,Ok,"Aurangabad, Maharashtra, India",19.8761653,75.3433139,"locality, political",APPROXIMATE,,,,Aurangabad,India,Maharashtra,Aurangabad,Aurangabad,19.8761653,75.3433139
+BEED,Ok,"Beed, Maharashtra 431122, India",18.9890893,75.7600785,"locality, political",APPROXIMATE,,,431122,Beed,India,Maharashtra,Beed,Beed,18.9890893,75.7600785
+CHANDRAPUR,Ok,"Chandrapur, Maharashtra, India",19.9704597,79.3014845,"locality, political",APPROXIMATE,,,,Chandrapur,India,Maharashtra,Chandrapur,Chandrapur,19.9704597,79.3014845
+DHULE,Ok,"Dhule, Maharashtra, India",20.9042201,74.7748979,"locality, political",APPROXIMATE,,,,Dhule,India,Maharashtra,Dhule,Dhule,20.9042201,74.7748979
+GHARCHIROLI,Ok,"Gadchiroli, Maharashtra, India",19.4968732,80.2767327,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Maharashtra,Gadchiroli,Gadchiroli,19.4968732,80.2767327
+JALGAON,Ok,"Jalgaon, Maharashtra, India",21.0076578,75.5626039,"locality, political",APPROXIMATE,,,,Jalgaon,India,Maharashtra,Jalgaon,Jalgaon,21.0076578,75.5626039
+KOLHAPUR,Ok,"Kolhapur, Maharashtra, India",16.7049873,74.2432527,"locality, political",APPROXIMATE,,,,Kolhapur,India,Maharashtra,Kolhapur,Kolhapur,16.7049873,74.2432527
+MUMBAI,Ok,"Mumbai, Maharashtra, India",19.0759837,72.8776559,"locality, political",APPROXIMATE,,,,Mumbai,India,Maharashtra,Mumbai,Mumbai,19.0759837,72.8776559
+NAGPUR,Ok,"Nagpur, Maharashtra, India",21.1458004,79.0881546,"locality, political",APPROXIMATE,,,,Nagpur,India,Maharashtra,Nagpur,Nagpur,21.1458004,79.0881546
+NANDED,Ok,"Nanded, Maharashtra, India",19.1382514,77.3209555,"locality, political",APPROXIMATE,,,,Nanded,India,Maharashtra,Nanded,Nanded,19.1382514,77.3209555
+NASIK,Ok,"Nashik, Maharashtra, India",19.9974533,73.7898023,"locality, political",APPROXIMATE,,,,Nashik,India,Maharashtra,Nashik,Nashik,19.9974533,73.7898023
+OSMANABAD,Ok,"Osmanabad, Maharashtra, India",18.2069636,76.1783739,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Maharashtra,Osmanabad,Osmanabad,18.2069636,76.1783739
+PARBHANI,Ok,"Parbhani, Maharashtra, India",19.2609958,76.776665,"locality, political",APPROXIMATE,,,,Parbhani,India,Maharashtra,Parbhani,Parbhani,19.2609958,76.776665
+PUNE,Ok,"Pune, Maharashtra, India",18.5204303,73.8567437,"locality, political",APPROXIMATE,,,,Pune,India,Maharashtra,Pune,Pune,18.5204303,73.8567437
+RATNAGIRI,Ok,"Ratnagiri, Maharashtra, India",16.990215,73.3120233,"locality, political",APPROXIMATE,,,,Ratnagiri,India,Maharashtra,Ratnagiri,Ratnagiri,16.990215,73.3120233
+SANGLI,Ok,"Sangli, Maharashtra, India",16.8523973,74.5814773,"locality, political",APPROXIMATE,,,,Sangli,India,Maharashtra,Sangli,Sangli,16.8523973,74.5814773
+SATARA,Ok,"Satara, Maharashtra, India",17.6804639,74.018261,"locality, political",APPROXIMATE,,,,Satara,India,Maharashtra,Satara,Satara,17.6804639,74.018261
+SOLAPUR,Ok,"Solapur, Maharashtra, India",17.6599188,75.9063906,"locality, political",APPROXIMATE,,,,Solapur,India,Maharashtra,Solapur,Solapur,17.6599188,75.9063906
+YAVATMAL,Ok,"Yavatmal, Maharashtra, India",20.3887937,78.1204073,"locality, political",APPROXIMATE,,,,Yavatmal,India,Maharashtra,Yavatmal,Yavatmal,20.3887937,78.1204073
+ORAS (Sindhdurganagari),"Ok, partial match","Sindh, Pakistan",25.8943018,68.5247149,"administrative_area_level_1, political",APPROXIMATE,,,,,Pakistan,Sindh,,,25.8943018,68.5247149
+BULDHANA,Ok,"Buldhana, Maharashtra, India",20.4560976,76.3637285,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Maharashtra,Buldhana,Buldhana,20.5292147,76.1841701
+WARDHA,Ok,"Wardha, Maharashtra, India",20.745319,78.6021946,"locality, political",APPROXIMATE,,,,Wardha,India,Maharashtra,Wardha,Wardha,20.745319,78.6021946
+GONDIA,Ok,"Gondia, Maharashtra, India",21.4624491,80.2209773,"locality, political",APPROXIMATE,,,,Gondia,India,Maharashtra,Gondia,Gondia,21.4624491,80.2209773
+JALNA,Ok,"Jalna, Maharashtra, India",19.8296893,75.8800305,"locality, political",APPROXIMATE,,,,Jalna,India,Maharashtra,Jalna,Jalna,19.8296893,75.8800305
+MALEGAON,Ok,"Malegaon, Maharashtra, India",20.5547497,74.5100291,"locality, political",APPROXIMATE,,,,Malegaon,India,Maharashtra,Nashik,Nashik,20.5547497,74.5100291
+BRAHMPURI,"3 found, use single geocode.","Brahampuri Rd, Shahdara, Delhi, 110053, India",28.6813612,77.2675869,route,GEOMETRIC_CENTER,,Brahampuri Road,110053,Delhi,India,Delhi,,,28.6840231,77.2655077
+AMRAVATI,Ok,"Amravati, Maharashtra, India",20.9374238,77.7795513,"locality, political",APPROXIMATE,,,,Amravati,India,Maharashtra,Amravati,Amravati,20.9374238,77.7795513
+IMPHAL,Ok,"Imphal, Manipur, India",24.8170111,93.9368439,"locality, political",APPROXIMATE,,,,Imphal,India,Manipur,Imphal West,Imphal West,24.8170111,93.9368439
+CHURACHANDPUR,Ok,"Churachandpur, Manipur, India",24.2993576,93.2583626,"administrative_area_level_2, political",APPROXIMATE,,,,,India,Manipur,Churachandpur,Churachandpur,24.2993576,93.2583626
+SENAPATI,No result,,,,,,,,,,,,,,25.3203312,94.1513764
+KANGPOKPI,Ok,"Kangpokpi, Manipur 795129, India",25.1519197,93.969963,"locality, political",APPROXIMATE,,,795129,Kangpokpi,India,Manipur,Senapati,Senapati,25.1519197,93.969963
+PARBUNG,Ok,"Parbung, Manipur 795143, India",24.251329,93.1058477,"locality, political",APPROXIMATE,,,795143,Parbung,India,Manipur,Churachandpur,Churachandpur,24.251329,93.1058477
+MOREH,,,,,,,,,,MOREH,,,,,24.251281,94.3013043
+CHANDEL,,,,,,,,,,CHANDEL,,,,,24.1827492,94.1513764
+JOWAI,,,,,,,,,,JOWAI,,,,,25.450902,92.2089109
+NONGSTOIN,,,,,,,,,,NONGSTOIN,,,,,25.5213094,91.2554112
+SHILLONG,,,,,,,,,,SHILLONG,,,,,25.5787726,91.8932535
+TURA,,,,,,,,,,TURA,,,,,25.5140712,90.2032141
+WILLIAMNAGAR,,,,,,,,,,WILLIAMNAGAR,,,,,25.5313902,90.5920027
+CHERRAPUNJI,,,,,,,,,,CHERRAPUNJI,,,,,25.2716565,91.7308033
+AIJAWL,,,,,,,,,,AIJAWL,,,,,23.727107,92.7176389
+LUNGLEH,,,,,,,,,,LUNGLEH,,,,,22.8670691,92.7655358
+SAIHA,,,,,,,,,,SAIHA,,,,,22.489734,92.979269
+RENGDIL,,,,,,,,,,RENGDIL,,,,,24.073374,92.3875331
+LAISAWRAI,,,,,,,,,,LAISAWRAI,,,,,23.2661624,92.4764887
+LAWNGTLAI,,,,,,,,,,LAWNGTLAI,,,,,22.311443,92.6983868
+KOHIMA,,,,,,,,,,KOHIMA,,,,,25.6585963,94.1053307
+MOKOKCHUNG,,,,,,,,,,MOKOKCHUNG,,,,,26.3954215,94.5211935
+MON,,,,,,,,,,MON,,,,,50.9814149,11.325987
+TUENSANG,,,,,,,,,,TUENSANG,,,,,26.260562,94.815921
+SAMTORE,,,,,,,,,,SAMTORE,,,,,ZERO_RESULTS,ZERO_RESULTS
+DIMAPUR,,,,,,,,,,DIMAPUR,,,,,25.8629885,93.7536663
+BARIPADA,,,,,,,,,,BARIPADA,,,,,21.9322338,86.7516942
+BERHAMPUR,,,,,,,,,,BERHAMPUR,,,,,19.3149618,84.7940911
+BHAWANIPATNA,,,,,,,,,,BHAWANIPATNA,,,,,19.9074279,83.1641562
+BOLANGIR,,,,,,,,,,BOLANGIR,,,,,20.7074234,83.4842725
+CUTTACK,,,,,,,,,,CUTTACK,,,,,20.462521,85.8829895
+JEYPORE,,,,,,,,,,JEYPORE,,,,,18.8606126,82.5510469
+JORANDA,,,,,,,,,,JORANDA,,,,,20.7874489,85.7282023
+KEONJHAR,,,,,,,,,,KEONJHAR,,,,,21.628933,85.5816847
+PURI,,,,,,,,,,PURI,,,,,19.8133822,85.8314655
+ROURKELA,,,,,,,,,,ROURKELA,,,,,22.260423,84.8535844
+SAMBALPUR,,,,,,,,,,SAMBALPUR,,,,,21.4668716,83.9811665
+DEOGARH,,,,,,,,,,DEOGARH,,,,,21.5383136,84.7289442
+SORO,,,,,,,,,,SORO,,,,,ZERO_RESULTS,ZERO_RESULTS
+SUNDERGARH,,,,,,,,,,SUNDERGARH,,,,,22.1240025,84.043175
+ANGUL,,,,,,,,,,ANGUL,,,,,20.8444033,85.1510818
+PARADEEP,,,,,,,,,,PARADEEP,,,,,20.3165523,86.6113628
+PARLAKHEMUNDI,,,,,,,,,,PARLAKHEMUNDI,,,,,18.7782646,84.0936771
+BALIGUDA,,,,,,,,,,BALIGUDA,,,,,20.1988922,83.9135452
+RAYAGADA,,,,,,,,,,RAYAGADA,,,,,19.171209,83.4163226
+NUAPARA,,,,,,,,,,NUAPARA,,,,,20.5070532,82.605118
+RAIRANGPUR,,,,,,,,,,RAIRANGPUR,,,,,22.2709322,86.1700894
+BHATINDA,,,,,,,,,,BHATINDA,,,,,30.210994,74.9454745
+JALLANDHAR,,,,,,,,,,JALLANDHAR,,,,,31.3260152,75.5761829
+PATIALA,,,,,,,,,,PATIALA,,,,,30.3397809,76.3868797
+GURDASPUR,,,,,,,,,,GURDASPUR,,,,,32.0419424,75.4053367
+FEROZEPUR,,,,,,,,,,FEROZEPUR,,,,,30.9331348,74.6224755
+LUDHIANA,,,,,,,,,,LUDHIANA,,,,,30.900965,75.8572758
+AJMER,,,,,,,,,,AJMER,,,,,26.4498954,74.6399163
+ALWAR,,,,,,,,,,ALWAR,,,,,27.5529907,76.6345735
+BANSWARA,,,,,,,,,,BANSWARA,,,,,23.5461394,74.4349761
+BARMER,,,,,,,,,,BARMER,,,,,51.20754,10.4599287
+BIKANER,,,,,,,,,,BIKANER,,,,,28.0229348,73.3119159
+CHITTORGARH,,,,,,,,,,CHITTORGARH,,,,,24.8887435,74.6269216
+CHURU,,,,,,,,,,CHURU,,,,,28.2925364,74.9707262
+JAIPUR,,,,,,,,,,JAIPUR,,,,,26.9124336,75.7872709
+JAISALMER,,,,,,,,,,JAISALMER,,,,,26.9157487,70.9083443
+JHALAWAR,,,,,,,,,,JHALAWAR,,,,,24.5973494,76.1609838
+JODHPUR,,,,,,,,,,JODHPUR,,,,,26.2389469,73.0243094
+KOTA,,,,,,,,,,KOTA,,,,,25.2138156,75.8647527
+MOUNT ABU,,,,,,,,,,MOUNT ABU,,,,,24.5925909,72.7156274
+NAGAUR,,,,,,,,,,NAGAUR,,,,,27.1983368,73.7493272
+SAWAI MADHOPUR,,,,,,,,,,SAWAI MADHOPUR,,,,,26.0377772,76.3521514
+SURATGARH,,,,,,,,,,SURATGARH,,,,,29.32186,73.9009228
+NATHWARA,,,,,,,,,,NATHWARA,,,,,24.9291411,73.8213213
+JHUNJHUNU,,,,,,,,,,JHUNJHUNU,,,,,28.1288747,75.3995089
+BHARATPUR,,,,,,,,,,BHARATPUR,,,,,27.216981,77.489515
+KARAULI,,,,,,,,,,KARAULI,,,,,26.488323,77.0161436
+ANUPGARH,,,,,,,,,,ANUPGARH,,,,,29.1811533,73.1998604
+DUNGARPUR,,,,,,,,,,DUNGARPUR,,,,,23.841668,73.7146623
+RONGPO,,,,,,,,,,RONGPO,,,,,27.176147,88.5287339
+RONGLI,,,,,,,,,,RONGLI,,,,,27.2035717,88.7018671
+YANGYANG,,,,,,,,,,YANGYANG,,,,,38.0753925,128.6188503
+TASHIDING,,,,,,,,,,TASHIDING,,,,,27.307806,88.291138
+ZORTHANG,,,,,,,,,,ZORTHANG,,,,,27.1317196,88.2796278
+NAMCHI,,,,,,,,,,NAMCHI,,,,,27.166996,88.3652122
+CHENNAI,,,,,,,,,,CHENNAI,,,,,13.0826802,80.2707184
+COIMBATORE,,,,,,,,,,COIMBATORE,,,,,11.0168445,76.9558321
+KODAIKANAL,,,,,,,,,,KODAIKANAL,,,,,10.2381136,77.4891822
+MADURAI,,,,,,,,,,MADURAI,,,,,9.9252007,78.1197754
+NAGARCOIL,,,,,,,,,,NAGARCOIL,,,,,8.1832857,77.4118996
+OOTTACAMUND,,,,,,,,,,OOTTACAMUND,,,,,11.4064138,76.6932438
+TIRUCHIRAPALLI,,,,,,,,,,TIRUCHIRAPALLI,,,,,10.7904833,78.7046725
+TIRUNELVELI,,,,,,,,,,TIRUNELVELI,,,,,8.7139126,77.7566523
+TUTICORIN,,,,,,,,,,TUTICORIN,,,,,8.7641661,78.1348361
+DHARMAPURI,,,,,,,,,,DHARMAPURI,,,,,12.1065271,78.1361409
+SALEM (YERCAUD),,,,,,,,,,SALEM (YERCAUD),,,,,11.775251,78.2092576
+THANJAVUR,,,,,,,,,,THANJAVUR,,,,,10.7869994,79.1378274
+RAMESHWARAM,,,,,,,,,,RAMESHWARAM,,,,,9.2876254,79.3129291
+VELLORE,,,,,,,,,,VELLORE,,,,,12.9165167,79.1324986
+TIRUPATTUR,,,,,,,,,,TIRUPATTUR,,,,,12.5080698,78.5701749
+AGARTALA,,,,,,,,,,AGARTALA,,,,,23.831457,91.2867777
+BELONIA,,,,,,,,,,BELONIA,,,,,23.2504915,91.4676394
+KAILASHAHAR,,,,,,,,,,KAILASHAHAR,,,,,24.3268117,92.0126276
+AMARPUR,,,,,,,,,,AMARPUR,,,,,25.0396898,86.9035511
+KHOWAI,,,,,,,,,,KHOWAI,,,,,24.0671796,91.6056718
+TELIMURA,,,,,,,,,,TELIMURA,,,,,23.8410576,91.6276989
+SABROOM,,,,,,,,,,SABROOM,,,,,23.0097804,91.7198215
+DHARMANAGAR,,,,,,,,,,DHARMANAGAR,,,,,24.3783242,92.1548473
+CHANDIGARH [1],,,,,,,,,,CHANDIGARH [1],,,,,30.741149,76.744067
+SILVASA,,,,,,,,,,SILVASA,,,,,20.2762659,73.0083061
+DAMAN [1],,,,,,,,,,DAMAN [1],,,,,50.1215241,6.0024491
+PONDICHERRY,,,,,,,,,,PONDICHERRY,,,,,11.9415915,79.8083133
+KARAIKAL,,,,,,,,,,KARAIKAL,,,,,10.9254398,79.8380056
+KAVARATTI,,,,,,,,,,KAVARATTI,,,,,10.5593204,72.6358134
+PORT BLAIR A&N,,,,,,,,,,PORT BLAIR A&N,,,,,11.6682881,92.737778
+AGRA,,,,,,,,,,AGRA,,,,,27.1766701,78.0080745
+ALIGARH,,,,,,,,,,ALIGARH,,,,,27.8973944,78.0880129
+ALLAHABAD,,,,,,,,,,ALLAHABAD,,,,,25.4358011,81.846311
+BAREILLY,,,,,,,,,,BAREILLY,,,,,28.3670355,79.4304381
+FAIZABAD,,,,,,,,,,FAIZABAD,,,,,26.7732476,82.1441643
+GORAKHPUR,,,,,,,,,,GORAKHPUR,,,,,29.4438165,75.6702647
+JHANSI,,,,,,,,,,JHANSI,,,,,25.4484257,78.5684594
+KANPUR,,,,,,,,,,KANPUR,,,,,26.449923,80.3318736
+LUCKNOW,,,,,,,,,,LUCKNOW,,,,,26.8466937,80.946166
+MATHURA,,,,,,,,,,MATHURA,,,,,27.4924134,77.673673
+NAJIBABAD,,,,,,,,,,NAJIBABAD,,,,,29.6127789,78.3446003
+OBRA,,,,,,,,,,OBRA,,,,,52.4695022,15.6523566
+RAMPUR,,,,,,,,,,RAMPUR,,,,,28.7893041,79.0249516
+VARANASI,,,,,,,,,,VARANASI,,,,,25.3176452,82.9739144
+BHARAICH,,,,,,,,,,BHARAICH,,,,,27.5708377,81.5980246
+ORAI,,,,,,,,,,ORAI,,,,,ZERO_RESULTS,ZERO_RESULTS
+BALRAMPUR,,,,,,,,,,BALRAMPUR,,,,,27.4308339,82.3017728
+MAHOBA,,,,,,,,,,MAHOBA,,,,,25.2920964,79.8724168
+PILIBHIT,,,,,,,,,,PILIBHIT,,,,,28.6207939,79.8128649
+HARDOI,,,,,,,,,,HARDOI,,,,,27.3986345,80.1316927
+LAKHIMPURKHERI,,,,,,,,,,LAKHIMPURKHERI,,,,,27.9462395,80.7787163
+MAUNATH BHANJAN,,,,,,,,,,MAUNATH BHANJAN,,,,,25.9496379,83.5586445
+RAEBAREILI,,,,,,,,,,RAEBAREILI,,,,,26.2345298,81.2408689
+AMETHI,,,,,,,,,,AMETHI,,,,,26.1540538,81.814238
+ALMORA,,,,,,,,,,ALMORA,,,,,29.5892407,79.646666
+BHATWARI,,,,,,,,,,BHATWARI,,,,,30.818273,78.6185941
+GOPESHWAR(CHAMOLI),,,,,,,,,,GOPESHWAR(CHAMOLI),,,,,30.4095258,79.3197973
+MUSSOORIE,,,,,,,,,,MUSSOORIE,,,,,30.4599099,78.0663978
+PAURI,,,,,,,,,,PAURI,,,,,30.1471155,78.7745393
+PITHORAGARH,,,,,,,,,,PITHORAGARH,,,,,29.5828604,80.2181884
+UTTARKASHI,,,,,,,,,,UTTARKASHI,,,,,30.7268307,78.4354042
+PRATAP NAGAR,,,,,,,,,,PRATAP NAGAR,,,,,28.666615,77.1988826
+BACHER,,,,,,,,,,BACHER,,,,,52.2643858,10.5294829
+RAJGARHI,,,,,,,,,,RAJGARHI,,,,,30.8447193,78.2518863
+TANAKPUR,,,,,,,,,,TANAKPUR,,,,,29.0722375,80.1065646
+KHAETIKHAN,,,,,,,,,,KHAETIKHAN,,,,,29.4019156,80.0802469
+UKHIMATH,,,,,,,,,,UKHIMATH,,,,,30.51488,79.0959642
+NAINITAL,,,,,,,,,,NAINITAL,,,,,29.3803039,79.4635658
+KASHIPUR,,,,,,,,,,KASHIPUR,,,,,29.2104232,78.9618845
+KALAGARH,,,,,,,,,,KALAGARH,,,,,29.4888517,78.7603759
+RANIKHET,,,,,,,,,,RANIKHET,,,,,29.6433615,79.4321825
+ASANSOLE,,,,,,,,,,ASANSOLE,,,,,23.6739452,86.9523954
+KOLKATA,,,,,,,,,,KOLKATA,,,,,22.572646,88.363895
+KURSEONG,,,,,,,,,,KURSEONG,,,,,26.8821382,88.2788511
+MURSHIDABAD,,,,,,,,,,MURSHIDABAD,,,,,24.1759039,88.2801785
+SHANTINIKETAN,,,,,,,,,,SHANTINIKETAN,,,,,23.6776471,87.6852323
+SILIGURI,,,,,,,,,,SILIGURI,,,,,26.7271012,88.3952861
+DARJEELING,,,,,,,,,,DARJEELING,,,,,27.0360066,88.2626751
+BALURGHAT,,,,,,,,,,BALURGHAT,,,,,25.2372834,88.7830612
+MEDNIPUR,,,,,,,,,,MEDNIPUR,,,,,22.4308892,87.3214908
+PURULIA,,,,,,,,,,PURULIA,,,,,23.3320779,86.365208
+FARAKKA,,,,,,,,,,FARAKKA,,,,,24.7828022,87.9040571
+KRISHNAGAR,,,,,,,,,,KRISHNAGAR,,,,,23.4008744,88.5013962
+COOCHBEHAR,,,,,,,,,,COOCHBEHAR,,,,,26.3356861,89.445851
