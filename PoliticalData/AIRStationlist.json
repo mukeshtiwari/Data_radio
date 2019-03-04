@@ -1,0 +1,3266 @@
+[
+  {
+    "Serial-number": "1",
+    " Stations": "     ADILABAD",
+    "               Category": "                       LRS",
+    "  Transmitter": "         1 kW MW",
+    "  Fequency": "                            1485 khz",
+    " Studio": "     MP"
+  },
+  {
+    "Serial-number": "2",
+    " Stations": "     ANANTAPUR",
+    "               Category": "                      LRS",
+    "  Transmitter": "         6 KW FM",
+    "  Fequency": "                            101.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "3",
+    " Stations": "     CUDDAPAH",
+    "               Category": "                         ",
+    "  Transmitter": "          100 KW MW",
+    "  Fequency": "                          900 khz",
+    " Studio": "     TYPE I"
+  },
+  {
+    "Serial-number": "4",
+    " Stations": "     HYDERABAD",
+    "               Category": "                        ",
+    "  Transmitter": "          200 kW MW",
+    "  Fequency": "                          738 khz",
+    " Studio": "     TYPE IV-UPLINK-RNU"
+  },
+  {
+    "Serial-number": "5",
+    " Stations": "     KARIMNAGAR",
+    "               Category": "                     RELAY",
+    "  Transmitter": "          5 KW FM",
+    "  Fequency": "                         102.3 MHz",
+    " Studio": "     "
+  },
+  {
+    "Serial-number": "6",
+    " Stations": "     KOTHAGUDAM",
+    "               Category": "                     ",
+    "  Transmitter": "            6 KW FM ",
+    "  Fequency": "                         100.1 Mhz ",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "7",
+    " Stations": "     KURNOOL",
+    "               Category": "                        LRS",
+    "  Transmitter": "           6 KW FM",
+    "  Fequency": "                            102.4 Mhz",
+    " Studio": "     MP"
+  },
+  {
+    "Serial-number": "8",
+    " Stations": "     MACHERLA",
+    "               Category": "                       ",
+    "  Transmitter": "            3 KW FM ",
+    "  Fequency": "                           103.1 MHz  ",
+    " Studio": "   "
+  },
+  {
+    "Serial-number": "9",
+    " Stations": "     MERKAPURAM",
+    "               Category": "                     LRS",
+    "  Transmitter": "           6 KW FM",
+    "  Fequency": "                            101.5 Mhz",
+    " Studio": "     MP"
+  },
+  {
+    "Serial-number": "10",
+    " Stations": "     NIZAMABAD",
+    "               Category": "                      LRS",
+    "  Transmitter": "          6 KW FM",
+    "  Fequency": "                            103.2 Mhz",
+    " Studio": "     MP"
+  },
+  {
+    "Serial-number": "11",
+    " Stations": "     NELLORE",
+    "               Category": "                        RELAY",
+    "  Transmitter": "        100 W FM",
+    "  Fequency": "                            101.1MHz",
+    " Studio": "     DTHTelegu"
+  },
+  {
+    "Serial-number": "12",
+    " Stations": "     ONGOLE",
+    "               Category": "                         RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                           100.6MHz ",
+    " Studio": "    DTHTelegu"
+  },
+  {
+    "Serial-number": "13",
+    " Stations": "     TIRUPATHI",
+    "               Category": "                      LRS",
+    "  Transmitter": "         10 KW FM ",
+    "  Fequency": "                          103.2 Mhz ",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "16",
+    " Stations": "     WARANGAL",
+    "               Category": "                       LRS",
+    "  Transmitter": "         10 KW FM ",
+    "  Fequency": "                           103.5 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "17",
+    " Stations": "     SURYAPET",
+    "               Category": "                       RELAY",
+    "  Transmitter": "       1 KW FM  ",
+    "  Fequency": "                          101.0 MHz ",
+    " Studio": "   "
+  },
+  {
+    "Serial-number": "18",
+    " Stations": "     KAMMAREDDY",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1 MHZ ",
+    " Studio": " "
+  },
+  {
+    "Serial-number": "19",
+    " Stations": "     BANSWADA",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                         100.1 MHZ  ",
+    " Studio": "  "
+  },
+  {
+    "Serial-number": "20",
+    " Stations": "     NANDYAL",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1 MHZ ",
+    " Studio": "   "
+  },
+  {
+    "Serial-number": "21",
+    " Stations": "     ADONI",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1 MHZ ",
+    " Studio": " "
+  },
+  {
+    "Serial-number": "22",
+    " Stations": "     KAKINADA",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1 MHZ ",
+    " Studio": "  "
+  },
+  {
+    "Serial-number": "23",
+    " Stations": "     MEHBOOBNAGAR",
+    "               Category": "                   RELAY",
+    "  Transmitter": "       10 kW FM ",
+    "  Fequency": "                          101.2 MHZ ",
+    " Studio": "    On Low Power Pending Installation of"
+  },
+  {
+    "Serial-number": "24",
+    " Stations": "     SRIKAKULAM",
+    "               Category": "                     RELAY",
+    "  Transmitter": "       1 kW FM   ",
+    "  Fequency": "                         102.7 Mhz  ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "25",
+    " Stations": "     KHAMMAM",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1 MHZ ",
+    " Studio": "    DTHTelegu"
+  },
+  {
+    "Serial-number": "26",
+    " Stations": "     ITANAGAR",
+    "               Category": "                        ",
+    "  Transmitter": "          100 KW MW ",
+    "  Fequency": "                          675 khz   ",
+    " Studio": "   TYPE I-UPLINK-RNU"
+  },
+  {
+    "Serial-number": "27",
+    " Stations": "     PASSIGHAT",
+    "               Category": "                       ",
+    "  Transmitter": "           10 KW MW ",
+    "  Fequency": "                            1062 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "28",
+    " Stations": "     TAWANG",
+    "               Category": "                          ",
+    "  Transmitter": "           10 KW MW ",
+    "  Fequency": "                           1521 khz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "29",
+    " Stations": "     TEZU",
+    "               Category": "                            ",
+    "  Transmitter": "          10 KW MW  ",
+    "  Fequency": "                           1332 khz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "30",
+    " Stations": "     ZIRO",
+    "               Category": "                           LRS",
+    "  Transmitter": "         1 KW MW  ",
+    "  Fequency": "                            1602 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "31",
+    " Stations": "     ZEMITHANG",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "32",
+    " Stations": "     KALAKTANG",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "33",
+    " Stations": "     BOMDILA",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "34",
+    " Stations": "     TALIHA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "35",
+    " Stations": "     SEPPA",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "36",
+    " Stations": "     BASAR",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "37",
+    " Stations": "     ALONG",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "38",
+    " Stations": "     MIAO",
+    "               Category": "                           LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "39",
+    " Stations": "     ROING",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "40",
+    " Stations": "     HUNLI",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "41",
+    " Stations": "     YOMCHA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "42",
+    " Stations": "     NAMSAI",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "43",
+    " Stations": "     HAWAI",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "44",
+    " Stations": "     GEKU",
+    "               Category": "                           LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                           100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "45",
+    " Stations": "    DEOMALI",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                          100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "46",
+    " Stations": "     DHUBRI",
+    "               Category": "                         RELAY",
+    "  Transmitter": "       6 KW FM  ",
+    "  Fequency": "                          103.3 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "47",
+    " Stations": "     DIBRUGARH",
+    "               Category": "                           ",
+    "  Transmitter": "       300 KW MW",
+    "  Fequency": "                            567 khz",
+    " Studio": " TYPE III RNU"
+  },
+  {
+    "Serial-number": "48",
+    " Stations": "     DIPHU",
+    "               Category": "                  LRS",
+    "  Transmitter": "         1 kW MW ",
+    "  Fequency": "                            1485 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "49",
+    " Stations": "     GUWAHATI",
+    "               Category": "                  ",
+    "  Transmitter": "         100 KW MW ",
+    "  Fequency": "                           729 khz",
+    " Studio": " TYPE IV  UPLINK RNU NOP"
+  },
+  {
+    "Serial-number": "51",
+    " Stations": "     JORHAT",
+    "               Category": "                 LRS",
+    "  Transmitter": "         10 KW FM ",
+    "  Fequency": "                         103.4 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "52",
+    " Stations": "     KOKRAJHAR",
+    "               Category": "                 ",
+    "  Transmitter": "         20 kW MW ",
+    "  Fequency": "                           1512 khz",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "53",
+    " Stations": "     NOWGONG",
+    "               Category": "                LRS",
+    "  Transmitter": "         6 KW FM  ",
+    "  Fequency": "                         102.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "54",
+    " Stations": "     SILCHAR",
+    "               Category": "                   ",
+    "  Transmitter": "         20 KW MW ",
+    "  Fequency": "                            828 khz",
+    " Studio": "   TYPE I RNU"
+  },
+  {
+    "Serial-number": "55",
+    " Stations": "     TEZPUR",
+    "               Category": "                    ",
+    "  Transmitter": "         20 kW MW ",
+    "  Fequency": "                           1125 khz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "56",
+    " Stations": "     MARGHERITA",
+    "               Category": "             LPT Relay",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "57",
+    " Stations": "     TINSUKIA",
+    "               Category": "               LPT Relay",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "58",
+    " Stations": "     NAZIRA",
+    "               Category": "                 LPT Relay",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "59",
+    " Stations": "     NORTH LAKHIMPUR",
+    "               Category": "        LPT Relay",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                          100.1Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "60",
+    " Stations": "    BHAGALPUR",
+    "               Category": "                        ",
+    "  Transmitter": "  20 kW MW  ",
+    "  Fequency": "                        1458 khz  ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "61",
+    " Stations": "     DARBHANGA",
+    "               Category": "                       ",
+    "  Transmitter": "   20 KW MW ",
+    "  Fequency": "                         1296 khz ",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "62",
+    " Stations": "     GAYA",
+    "               Category": "                   RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                          11.9MHz ",
+    " Studio": "    VB"
+  },
+  {
+    "Serial-number": "63",
+    " Stations": "     PATNA",
+    "               Category": "                       ",
+    "  Transmitter": "       100 KW MW ",
+    "  Fequency": "                          621 khz ",
+    " Studio": "   TYPE IV Uplink News on Phone RNU"
+  },
+  {
+    "Serial-number": "64",
+    " Stations": "     PURNEA",
+    "               Category": "                 LRS",
+    "  Transmitter": "        6 KW FM    ",
+    "  Fequency": "                       102.3 Mhz  ",
+    " Studio": "  MP"
+  },
+  {
+    "Serial-number": "65",
+    " Stations": "     SITAMARHI",
+    "               Category": "              RELAY",
+    "  Transmitter": "       100 W FM  ",
+    "  Fequency": "                          102MHz  ",
+    " Studio": "   VB"
+  },
+  {
+    "Serial-number": "66",
+    " Stations": "     SASARAM",
+    "               Category": "                LRS",
+    "  Transmitter": "         6 KW FM   ",
+    "  Fequency": "                        103.4 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "67",
+    " Stations": "     AURANGABAD",
+    "               Category": "             LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                        102.4 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "68",
+    " Stations": "     MUZAFFARPUR",
+    "               Category": "            LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 mhZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "69",
+    " Stations": "     BETTIAH",
+    "               Category": "                LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 mhZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "70",
+    " Stations": "     MOTIHARI",
+    "               Category": "               LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 mhZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "71",
+    " Stations": "     MADHUBANI",
+    "               Category": "              LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 mhZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "72",
+    " Stations": "     FORBESGANJ",
+    "               Category": "             LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 mhZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "73",
+    " Stations": "     KISHAN GANJ",
+    "               Category": "            RELAY",
+    "  Transmitter": "       100 W FM  ",
+    "  Fequency": "                        100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "74",
+    " Stations": "     SUPAUL",
+    "               Category": "                 RELAY",
+    "  Transmitter": "       100 W FM  ",
+    "  Fequency": "                        100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "75",
+    " Stations": "     AMBIKAPUR",
+    "               Category": "                   ",
+    "  Transmitter": "       20 kW MW  ",
+    "  Fequency": "                        1260 khz  ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "76",
+    " Stations": "     BILASPUR",
+    "               Category": "               LRS",
+    "  Transmitter": "         6 KW FM   ",
+    "  Fequency": "                       103.2 Mhz  ",
+    " Studio": "  MP"
+  },
+  {
+    "Serial-number": "77",
+    " Stations": "     JAGDALPUR",
+    "               Category": "                 ",
+    "  Transmitter": "         100 KW MW ",
+    "  Fequency": "                         756 khz  ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "78",
+    " Stations": "    RAIGARH",
+    "               Category": "                LRS",
+    "  Transmitter": "         6 KW FM    ",
+    "  Fequency": "                      100.7 Mhz   ",
+    " Studio": "  MP"
+  },
+  {
+    "Serial-number": "79",
+    " Stations": "     RAIPUR",
+    "               Category": "                   ",
+    "  Transmitter": "          100 KW MW ",
+    "  Fequency": "                         981 khz  ",
+    " Studio": "   TYPE I  Uplink NoP RNU"
+  },
+  {
+    "Serial-number": "80",
+    " Stations": "     SARAIPALLI",
+    "               Category": "             LRS",
+    "  Transmitter": "         1 KW FM   ",
+    "  Fequency": "                       102.8 Mhz  ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "81",
+    " Stations": "     MANINDRAGARH",
+    "               Category": "           LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "82",
+    " Stations": "     KONTA",
+    "               Category": "                  LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "83",
+    " Stations": "     KHAROD",
+    "               Category": "                 LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "84",
+    " Stations": "     KORBA",
+    "               Category": "                  LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "85",
+    " Stations": "     PANDARIA",
+    "               Category": "               LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "86",
+    " Stations": "     KANKER",
+    "               Category": "                 LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "87",
+    " Stations": "     DONGARGARH",
+    "               Category": "             LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "88",
+    " Stations": "     DELHI [1]",
+    "               Category": "                       ",
+    "  Transmitter": "   200 KW MW 'A' ",
+    "  Fequency": "                      819 khz",
+    " Studio": " TYPE IV Plus UPLINK"
+  },
+  {
+    "Serial-number": "89",
+    " Stations": "     PANAJI",
+    "               Category": "                          ",
+    "  Transmitter": "           100 KW MW ",
+    "  Fequency": "                         1287 khz",
+    " Studio": " TYPE III RNU"
+  },
+  {
+    "Serial-number": "90",
+    " Stations": "     AHMEDABAD",
+    "               Category": "                       ",
+    "  Transmitter": "           200 KW MW ",
+    "  Fequency": "                          846 khz",
+    " Studio": " TYPE IVUplinkNews on Phone RNU"
+  },
+  {
+    "Serial-number": "91",
+    " Stations": "     AHWA",
+    "               Category": "                            ",
+    "  Transmitter": "           1 kW MW   ",
+    "  Fequency": "                         1485 khz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "92",
+    " Stations": "     BHUJ",
+    "               Category": "                            ",
+    "  Transmitter": "           20 kW MW  ",
+    "  Fequency": "                         1314 khz",
+    " Studio": "   TYPE II RNU"
+  },
+  {
+    "Serial-number": "93",
+    " Stations": "     GODHRA",
+    "               Category": "                         LRS",
+    "  Transmitter": "         6 KW FM   ",
+    "  Fequency": "                        102.2 Mhz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "94",
+    " Stations": "     RAJKOT",
+    "               Category": "                            ",
+    "  Transmitter": "         300 KW MW ",
+    "  Fequency": "                          810 khz",
+    " Studio": "   TYPE III"
+  },
+  {
+    "Serial-number": "95",
+    " Stations": "    SURAT",
+    "               Category": "                          LRS",
+    "  Transmitter": "         10 KW FM VB",
+    "  Fequency": "                     101.1 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "96",
+    " Stations": "    VADODRA",
+    "               Category": "                        VB EXCL",
+    "  Transmitter": "    10 KW FM    ",
+    "  Fequency": "                      93.9 Mhz",
+    " Studio": "    TYPE II & STEREO"
+  },
+  {
+    "Serial-number": "97",
+    " Stations": "    HIMMATNAGAR",
+    "               Category": "                    LRS",
+    "  Transmitter": "         1 kW MW    ",
+    "  Fequency": "                       1584 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "98",
+    " Stations": "    MEHSANA",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "99",
+    " Stations": "    BHAVNAGAR",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "100",
+    " Stations": "    BHARUCH",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "101",
+    " Stations": "    JAMNAGAR",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "102",
+    " Stations": "    PORBANDAR",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "103",
+    " Stations": "    DWARKA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "104",
+    " Stations": "    JUNAGARH",
+    "               Category": "                       RELAY",
+    "  Transmitter": "       10 kW FM  ",
+    "  Fequency": "                      101.7 MHz",
+    " Studio": "    Playback with Voiceover recording & field"
+  },
+  {
+    "Serial-number": "105",
+    " Stations": "    HISSAR",
+    "               Category": "                         LRS",
+    "  Transmitter": "         6 KW FM   ",
+    "  Fequency": "                        102.3 Mhz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "106",
+    " Stations": "    KURUKSHETRA",
+    "               Category": "                    LRS",
+    "  Transmitter": "         10 KW FM  ",
+    "  Fequency": "                        101.4 Mhz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "107",
+    " Stations": "    ROHTAK",
+    "               Category": "                            ",
+    "  Transmitter": "         20 kW MW  ",
+    "  Fequency": "                         1143 khz",
+    " Studio": "   TYPE III UPLINK"
+  },
+  {
+    "Serial-number": "108",
+    " Stations": "    SIRSA",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                         101 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "109",
+    " Stations": "    AMBALA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                         101 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "110",
+    " Stations": "    BHARMOUR",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                        101.3 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "111",
+    " Stations": "    DHARMSHALA",
+    "               Category": "                              ",
+    "  Transmitter": "   10 KW FM  ",
+    "  Fequency": "                        103.4 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "112",
+    " Stations": "    HAMIRPUR",
+    "               Category": "                       LRS",
+    "  Transmitter": "         6 KW FM   ",
+    "  Fequency": "                        101.8 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "113",
+    " Stations": "    KASAULI",
+    "               Category": "                        RELAY",
+    "  Transmitter": "       10 KW FM  ",
+    "  Fequency": "                        107.2 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "114",
+    " Stations": "    KINNAUR(KALPA)",
+    "               Category": "                 RELAY",
+    "  Transmitter": "       1 kW MW   ",
+    "  Fequency": "                         1584 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "115",
+    " Stations": "    KULLU",
+    "               Category": "                          RELAY",
+    "  Transmitter": "       6 KW FM   ",
+    "  Fequency": "                        102.5 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "116",
+    " Stations": "    SHIMLA",
+    "               Category": "                              ",
+    "  Transmitter": "       100 KW MW ",
+    "  Fequency": "                          774 khz",
+    " Studio": " TYPE III  UPLINK RNUNOP"
+  },
+  {
+    "Serial-number": "117",
+    " Stations": "    KEYLONG",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W   FM ",
+    "  Fequency": "                  100.4 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "118",
+    " Stations": "    RAMPUR",
+    "               Category": "                         RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "119",
+    " Stations": "    BERTHEIN",
+    "               Category": "                       RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "120",
+    " Stations": "    MANDI",
+    "               Category": "                          RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "121",
+    " Stations": "    BILASPUR",
+    "               Category": "                       RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "122",
+    " Stations": "    SUNDER NAGAR",
+    "               Category": "                   RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "123",
+    " Stations": "    MANALI",
+    "               Category": "                         RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "124",
+    " Stations": "    CHAMBA",
+    "               Category": "                         RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "125",
+    " Stations": "    CHAURIKHAS",
+    "               Category": "                     RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "126",
+    " Stations": "    JAMMU",
+    "               Category": "                               ",
+    "  Transmitter": "       300 KW MW  ",
+    "  Fequency": "                         990 khz",
+    " Studio": " TYPE III UPLINK RNU"
+  },
+  {
+    "Serial-number": "127",
+    " Stations": "    KARGIL",
+    "               Category": "                              ",
+    "  Transmitter": "       1 kW MW    ",
+    "  Fequency": "                        1584 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "128",
+    " Stations": "     KATHUA",
+    "               Category": "              LRS",
+    "  Transmitter": "         10 KW FM             ",
+    "  Fequency": "             102.2 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "129",
+    " Stations": "     LEH",
+    "               Category": "                    ",
+    "  Transmitter": "         20 KW MW             ",
+    "  Fequency": "              1053 khz",
+    " Studio": " MP UPLINK RNU"
+  },
+  {
+    "Serial-number": "130",
+    " Stations": "     POONCH",
+    "               Category": "              LRS",
+    "  Transmitter": "         6 KW FM              ",
+    "  Fequency": "            100.7 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "131",
+    " Stations": "     SRINAGAR",
+    "               Category": "               ",
+    "  Transmitter": "         300 KW MW            ",
+    "  Fequency": "             1116 khz",
+    " Studio": " TYPE IV UPLINK RNU"
+  },
+  {
+    "Serial-number": "132",
+    " Stations": "     BHADARWAH",
+    "               Category": "              ",
+    "  Transmitter": "         6 KW FM              ",
+    "  Fequency": "            101.0 Mhz",
+    " Studio": "     MP"
+  },
+  {
+    "Serial-number": "133",
+    " Stations": "     KUPWARA",
+    "               Category": "             RELAY",
+    "  Transmitter": "       20 kW MW             ",
+    "  Fequency": "              1350 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "134",
+    " Stations": "     KHALSI",
+    "               Category": "              RELAY",
+    "  Transmitter": "       1 kW MW              ",
+    "  Fequency": "              1485 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "135",
+    " Stations": "     NAUSHERA",
+    "               Category": "            RELAY",
+    "  Transmitter": "       20 KW MW             ",
+    "  Fequency": "              1089 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "136",
+    " Stations": "     RAJOURI",
+    "               Category": "             RELAY",
+    "  Transmitter": "       10 KW FM             ",
+    "  Fequency": "            101.9 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "137",
+    " Stations": "     DRASS",
+    "               Category": "               RELAY",
+    "  Transmitter": "       1 KW MW              ",
+    "  Fequency": "              1485 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "138",
+    " Stations": "     TIESURU",
+    "               Category": "             RELAY",
+    "  Transmitter": "       1 KW MW              ",
+    "  Fequency": "              1602 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "139",
+    " Stations": "     NYOMA",
+    "               Category": "               RELAY",
+    "  Transmitter": "       1 kW MW              ",
+    "  Fequency": "              1485 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "140",
+    " Stations": "     DISKIT",
+    "               Category": "              RELAY",
+    "  Transmitter": "       1 KW MW              ",
+    "  Fequency": "              1602 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "141",
+    " Stations": "     PADUM",
+    "               Category": "               RELAY",
+    "  Transmitter": "       1 KW MW              ",
+    "  Fequency": "             1584 KHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "142",
+    " Stations": "    TITHWAL",
+    "               Category": "             RELAY",
+    "  Transmitter": "      100 W FM               ",
+    "  Fequency": "           102.3MHz",
+    " Studio": "     VB"
+  },
+  {
+    "Serial-number": "143",
+    " Stations": "     URI",
+    "               Category": "                 RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "144",
+    " Stations": "     MANGLADEVI FORT",
+    "               Category": "     RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "             100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "145",
+    " Stations": "     UDHAMPUR",
+    "               Category": "            RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "            103.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "146",
+    " Stations": "     GUREJ",
+    "               Category": "               RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "             100.5MHz",
+    " Studio": "     VB"
+  },
+  {
+    "Serial-number": "147",
+    " Stations": "     TRAL",
+    "               Category": "                RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "             100.1MHz",
+    " Studio": "     VB"
+  },
+  {
+    "Serial-number": "148",
+    " Stations": "     BIMBARGALLI",
+    "               Category": "         RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "             100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "149",
+    " Stations": "     PAHALGAM",
+    "               Category": "            RELAY",
+    "  Transmitter": "       100 W FM             ",
+    "  Fequency": "             100.1MHz",
+    " Studio": "     VB"
+  },
+  {
+    "Serial-number": "150",
+    " Stations": "     CHAIBASA",
+    "               Category": "            LRS",
+    "  Transmitter": "       6 KW FM                ",
+    "  Fequency": "           101.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "151",
+    " Stations": "     DALTONGANJ",
+    "               Category": "          LRS",
+    "  Transmitter": "       10 KW FM               ",
+    "  Fequency": "             103 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "152",
+    " Stations": "     HAJARIBAGH",
+    "               Category": "          LRS",
+    "  Transmitter": "       6 KW FM                ",
+    "  Fequency": "           102.1 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "153",
+    " Stations": "     JAMSHEDPUR",
+    "               Category": "             ",
+    "  Transmitter": "       1 kW MW                ",
+    "  Fequency": "            1584 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "154",
+    " Stations": "     RANCHI",
+    "               Category": "                 ",
+    "  Transmitter": "         100 KW MW             ",
+    "  Fequency": "               549 khz",
+    " Studio": "   TYPE IIUPLINK RNU"
+  },
+  {
+    "Serial-number": "155",
+    " Stations": "     DHANBAD",
+    "               Category": "             LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "156",
+    " Stations": "     CHATRA",
+    "               Category": "              LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "157",
+    " Stations": "     GHATSHILA",
+    "               Category": "           LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "158",
+    " Stations": "     GUMLA",
+    "               Category": "               LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "159",
+    " Stations": "     BOKARO",
+    "               Category": "              LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "160",
+    " Stations": "     GIRIDIH",
+    "               Category": "             LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "161",
+    " Stations": "     DEOGHAR",
+    "               Category": "             LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "162",
+    " Stations": "     DUMKA",
+    "               Category": "               LPT Relay",
+    "  Transmitter": "   100 W FM             ",
+    "  Fequency": "            100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "163",
+    " Stations": "     BANGALORE",
+    "               Category": "                    ",
+    "  Transmitter": "   200 KW MW            ",
+    "  Fequency": "               612 khz",
+    " Studio": " TYPE IV Uplink News on Phone RNU"
+  },
+  {
+    "Serial-number": "164",
+    " Stations": "     BHADRAWATI",
+    "               Category": "                   ",
+    "  Transmitter": "   20 kW MW             ",
+    "  Fequency": "               675 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "165",
+    " Stations": "     BELLARY",
+    "               Category": "                      ",
+    "  Transmitter": "   10 KW FM             ",
+    "  Fequency": "             103.3 mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "166",
+    " Stations": "     BIJAPUR",
+    "               Category": "             LRS",
+    "  Transmitter": "         6 KW FM              ",
+    "  Fequency": "              101.8 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "167",
+    " Stations": "     CHITRADURG",
+    "               Category": "          LRS",
+    "  Transmitter": "         6 KW FM              ",
+    "  Fequency": "             102.6 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "168",
+    " Stations": "     DHARWAD",
+    "               Category": "                ",
+    "  Transmitter": "         200 KW MW            ",
+    "  Fequency": "               765 khz",
+    " Studio": "    TYPE III RNU"
+  },
+  {
+    "Serial-number": "169",
+    " Stations": "     GULBARGA",
+    "               Category": "               ",
+    "  Transmitter": "         20 kW MW             ",
+    "  Fequency": "              1107 khz",
+    " Studio": "    TYPE-I"
+  },
+  {
+    "Serial-number": "170",
+    " Stations": "     HASSAN",
+    "               Category": "                 ",
+    "  Transmitter": "         6 KW FM              ",
+    "  Fequency": "              1107 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "171",
+    " Stations": "    HOSPET",
+    "               Category": "                        LRS",
+    "  Transmitter": "         10 KW FM    ",
+    "  Fequency": "                      102.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "172",
+    " Stations": "    KARWAR",
+    "               Category": "                        LRS",
+    "  Transmitter": "         3 KW FM     ",
+    "  Fequency": "                      100.5 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "173",
+    " Stations": "    MANGALORE\/UDIPI",
+    "               Category": "                  ",
+    "  Transmitter": "          20 kW MW   ",
+    "  Fequency": "                        1089 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "174",
+    " Stations": "    MERCARA (Madikeri)",
+    "               Category": "               ",
+    "  Transmitter": "          6 KW FM    ",
+    "  Fequency": "                           103.1",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "175",
+    " Stations": "    MYSORE",
+    "               Category": "                           ",
+    "  Transmitter": "          10 kW FM   ",
+    "  Fequency": "                        1017 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "176",
+    " Stations": "    RAICHUR",
+    "               Category": "                        LRS",
+    "  Transmitter": "         6 KW FM    ",
+    "  Fequency": "                       102.1 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "177",
+    " Stations": "    SRINGERI",
+    "               Category": "                       RELAY",
+    "  Transmitter": "       100 W FM   ",
+    "  Fequency": "                        101 MHz ",
+    " Studio": "    DTH Kannada"
+  },
+  {
+    "Serial-number": "178",
+    " Stations": "    TUMKUR",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "179",
+    " Stations": "    HOSDURG",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "180",
+    " Stations": "    DAVANGERE",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "181",
+    " Stations": "    SAGAR",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "182",
+    " Stations": "    KUMTA",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                      100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "183",
+    " Stations": "    ALLEPPY (Alappuzha)",
+    "               Category": "            RELAY",
+    "  Transmitter": "       200 KW MW  ",
+    "  Fequency": "                         576 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "184",
+    " Stations": "   CALICUT (Kozhikode)",
+    "               Category": "                  ",
+    "  Transmitter": "      100 KW MW   ",
+    "  Fequency": "                        684 khz",
+    " Studio": "    TYPE III RNU"
+  },
+  {
+    "Serial-number": "185",
+    " Stations": "   CANNANOR (Kannur)",
+    "               Category": "                    ",
+    "  Transmitter": "      6 KW FM     ",
+    "  Fequency": "                      101.5 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "186",
+    " Stations": "   COCHIN (Kochi)",
+    "               Category": "                 LRS   ",
+    "  Transmitter": "      10 KW FM    ",
+    "  Fequency": "                      102.3 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "187",
+    " Stations": "    IDUKKI (DEVIKULAM)",
+    "               Category": "                  ",
+    "  Transmitter": "       6 KW FM    ",
+    "  Fequency": "                       101.4 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "188",
+    " Stations": "    TRICHUR (Thrissur)",
+    "               Category": "                  ",
+    "  Transmitter": "       100 KW MW  ",
+    "  Fequency": "                         630 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "189",
+    " Stations": "    THIRUVANANTHAPURAM",
+    "               Category": "                  ",
+    "  Transmitter": "       20 KW MW   ",
+    "  Fequency": "                        1161 khz",
+    " Studio": " TYPE IV Uplink News on Phone RNU"
+  },
+  {
+    "Serial-number": "190",
+    " Stations": "    MANJERI",
+    "               Category": "                        LRS  ",
+    "  Transmitter": "       3 KW FM   ",
+    "  Fequency": "                  102.7 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "191",
+    " Stations": "    PUNALUR",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                         100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "192",
+    " Stations": "    KALPETTA",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "193",
+    " Stations": "    KASARGODE",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       103.7 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "194",
+    " Stations": "    BALAGHAT",
+    "               Category": "                       LRS   ",
+    "  Transmitter": "      6 KW FM   ",
+    "  Fequency": "                        101.3 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "195",
+    " Stations": "    BETUL",
+    "               Category": "                          LRS   ",
+    "  Transmitter": "      6 KW FM   ",
+    "  Fequency": "                        103.1 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "196",
+    " Stations": "    BHOPAL",
+    "               Category": "                               ",
+    "  Transmitter": "      10 KW MW  ",
+    "  Fequency": "                         1593 khz",
+    " Studio": " TYPE III UPLINK RNU"
+  },
+  {
+    "Serial-number": "197",
+    " Stations": "    CHHATARPUR",
+    "               Category": "                           ",
+    "  Transmitter": "      20 kW MW  ",
+    "  Fequency": "                           675 khz",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "198",
+    " Stations": "    CHHINDWARA",
+    "               Category": "                     LRS   ",
+    "  Transmitter": "      6 KW FM   ",
+    "  Fequency": "                        102.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "199",
+    " Stations": "    GUNA",
+    "               Category": "                           LRS   ",
+    "  Transmitter": "      6 KW FM   ",
+    "  Fequency": "                        102.3 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "200",
+    " Stations": "    GAWALIOR",
+    "               Category": "                             ",
+    "  Transmitter": "      20 kW MW  ",
+    "  Fequency": "                         1386 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "201",
+    " Stations": "    INDORE",
+    "               Category": "                               ",
+    "  Transmitter": "      200 KW MW ",
+    "  Fequency": "                           648 khz",
+    " Studio": "   TYPE III RNU"
+  },
+  {
+    "Serial-number": "202",
+    " Stations": "    JABALPUR",
+    "               Category": "                             ",
+    "  Transmitter": "      200 KW MW ",
+    "  Fequency": "                           801 khz",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "203",
+    " Stations": "    KHANDWA",
+    "               Category": "                        LRS   ",
+    "  Transmitter": "      6 KW FM   ",
+    "  Fequency": "                        101.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "204",
+    " Stations": "    PANCHMARHI",
+    "               Category": "                     RELAY ",
+    "  Transmitter": "      100 W FM   ",
+    "  Fequency": "                       100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "205",
+    " Stations": "    REWA",
+    "               Category": "                                 ",
+    "  Transmitter": "      20 kW MW   ",
+    "  Fequency": "                        1179 khz",
+    " Studio": "    TYPE II"
+  },
+  {
+    "Serial-number": "206",
+    " Stations": "    SAGAR",
+    "               Category": "                          LRS   ",
+    "  Transmitter": "      6 KW FM    ",
+    "  Fequency": "                       102.6 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "207",
+    " Stations": "    SHAHDOL",
+    "               Category": "                              ",
+    "  Transmitter": "      6 KW FM    ",
+    "  Fequency": "                         102 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "208",
+    " Stations": "    SHIVPURI",
+    "               Category": "                             ",
+    "  Transmitter": "      6 KW FM    ",
+    "  Fequency": "                       100.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "209",
+    " Stations": "    MANDLA",
+    "               Category": "                         LRS   ",
+    "  Transmitter": "     1 KW FM     ",
+    "  Fequency": "                      100.4 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "210",
+    " Stations": "    RAJGARH",
+    "               Category": "                        LRS   ",
+    "  Transmitter": "      3 KW FM    ",
+    "  Fequency": "                       100.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "211",
+    " Stations": "    NEEMUCH",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "212",
+    " Stations": "    MANDSAUR",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "213",
+    " Stations": "    SATNA",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "214",
+    " Stations": "    HARDA",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "215",
+    " Stations": "    CHANDERI",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "216",
+    " Stations": "    UJJAIN",
+    "               Category": "                         RELAY    ",
+    "  Transmitter": "   5 KW FM    ",
+    "  Fequency": "                       102.5 Mhz",
+    " Studio": "    Studio with Field Production & Voice"
+  },
+  {
+    "Serial-number": "217",
+    " Stations": "    RATLAM",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "  100 W FM    ",
+    "  Fequency": "                      100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "218",
+    " Stations": "    JHABUA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM   ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "219",
+    " Stations": "    AHMEDNAGAR",
+    "               Category": "                     LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "220",
+    " Stations": "    AKOLA",
+    "               Category": "                          LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       102.4 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "221",
+    " Stations": "    AURANGABAD",
+    "               Category": "                              ",
+    "  Transmitter": "   10 KW FM   ",
+    "  Fequency": "                       101.7 Mhz",
+    " Studio": " TYPE II UPLINK RNU"
+  },
+  {
+    "Serial-number": "222",
+    " Stations": "    BEED",
+    "               Category": "                           LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       102.9 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "223",
+    " Stations": "    CHANDRAPUR",
+    "               Category": "                     LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                         103 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "224",
+    " Stations": "    DHULE",
+    "               Category": "                          LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       100.5 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "225",
+    " Stations": "     GHARCHIROLI",
+    "               Category": "               RELEY",
+    "  Transmitter": "       100 W FM       ",
+    "  Fequency": "                   101.8MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "226",
+    " Stations": "     JALGAON",
+    "               Category": "                        ",
+    "  Transmitter": "       20 kW MW       ",
+    "  Fequency": "                     963 khz",
+    " Studio": " TYPE I"
+  },
+  {
+    "Serial-number": "227",
+    " Stations": "     KOLHAPUR",
+    "               Category": "                       ",
+    "  Transmitter": "       6 KW FM        ",
+    "  Fequency": "                   102.7 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "228",
+    " Stations": "     MUMBAI",
+    "               Category": "                         ",
+    "  Transmitter": "       100 KW MW 'A'  ",
+    "  Fequency": "                    1044 khz",
+    " Studio": " TYPE IV Plus UPLINK RNU"
+  },
+  {
+    "Serial-number": "229",
+    " Stations": "    NAGPUR",
+    "               Category": "                          ",
+    "  Transmitter": "      300 KW MW       ",
+    "  Fequency": "                    585 khz ",
+    " Studio": "  TYPE III RNU"
+  },
+  {
+    "Serial-number": "230",
+    " Stations": "     NANDED",
+    "               Category": "                    LRS  ",
+    "  Transmitter": "       6 KW FM        ",
+    "  Fequency": "                  101.1 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "231",
+    " Stations": "     NASIK",
+    "               Category": "                     LRS  ",
+    "  Transmitter": "       6 KW FM        ",
+    "  Fequency": "                  101.4 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "232",
+    " Stations": "     OSMANABAD",
+    "               Category": "                 LRS  ",
+    "  Transmitter": "       6 KW FM        ",
+    "  Fequency": "                  101.3 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "233",
+    " Stations": "     PARBHANI",
+    "               Category": "                       ",
+    "  Transmitter": "       20 kW MW       ",
+    "  Fequency": "                   1305 khz ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "234",
+    " Stations": "     PUNE",
+    "               Category": "                           ",
+    "  Transmitter": "       100 KW MW      ",
+    "  Fequency": "                     792 khz",
+    " Studio": "   TYPE IV RNU"
+  },
+  {
+    "Serial-number": "235",
+    " Stations": "     RATNAGIRI",
+    "               Category": "                      ",
+    "  Transmitter": "       20 kW MW       ",
+    "  Fequency": "                   1143 khz ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "236",
+    " Stations": "     SANGLI",
+    "               Category": "                         ",
+    "  Transmitter": "       20 kW MW       ",
+    "  Fequency": "                   1251 khz ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "237",
+    " Stations": "     SATARA",
+    "               Category": "                    LRS  ",
+    "  Transmitter": "       6 KW FM        ",
+    "  Fequency": "                  103.1 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "238",
+    " Stations": "     SOLAPUR",
+    "               Category": "                   LRS  ",
+    "  Transmitter": "       10 KW FM       ",
+    "  Fequency": "                  103.4 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "239",
+    " Stations": "     YAVATMAL",
+    "               Category": "                  LRS  ",
+    "  Transmitter": "       6 KW FM        ",
+    "  Fequency": "                  102.7 Mhz ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "240",
+    " Stations": "     ORAS (Sindhdurganagari)",
+    "               Category": "        ",
+    "  Transmitter": "       5 KW FM        ",
+    "  Fequency": "                 103.60 Mhz ",
+    " Studio": "   Playback with Voiceover recording & field"
+  },
+  {
+    "Serial-number": "241",
+    " Stations": "     BULDHANA",
+    "               Category": "                  LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "242",
+    " Stations": "     WARDHA",
+    "               Category": "                    LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                  100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "243",
+    " Stations": "     GONDIA",
+    "               Category": "                    LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "244",
+    " Stations": "     JALNA",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "245",
+    " Stations": "     MALEGAON",
+    "               Category": "                  LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "246",
+    " Stations": "     BRAHMPURI",
+    "               Category": "                 LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "247",
+    " Stations": "     AMRAVATI",
+    "               Category": "                           ",
+    "  Transmitter": "   10 KW FM VB    ",
+    "  Fequency": "                  101.5 MHz ",
+    " Studio": " Playback with Voiceover recording & field"
+  },
+  {
+    "Serial-number": "248",
+    " Stations": "     IMPHAL",
+    "               Category": "                             ",
+    "  Transmitter": "   300 KW MW      ",
+    "  Fequency": "                     882 khz ",
+    " Studio": " TYPE III Uplink News on Phone RNU"
+  },
+  {
+    "Serial-number": "249",
+    " Stations": "     CHURACHANDPUR",
+    "               Category": "             LRS      ",
+    "  Transmitter": "   6 kW FM        ",
+    "  Fequency": "                   101.4 Mhz ",
+    " Studio": "MP"
+  },
+  {
+    "Serial-number": "250",
+    " Stations": "     SENAPATI",
+    "               Category": "                  LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "251",
+    " Stations": "     KANGPOKPI",
+    "               Category": "                 LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "252",
+    " Stations": "     PARBUNG",
+    "               Category": "                   LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "253",
+    " Stations": "     MOREH",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "254",
+    " Stations": "     CHANDEL",
+    "               Category": "                   LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "255",
+    " Stations": "     JOWAI",
+    "               Category": "                     LRS     ",
+    "  Transmitter": "    6 KW FM        ",
+    "  Fequency": "                   101.1 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "256",
+    " Stations": "     NONGSTOIN",
+    "               Category": "                 CRS     ",
+    "  Transmitter": "    1 kW MW        ",
+    "  Fequency": "                    1485 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "257",
+    " Stations": "     SHILLONG",
+    "               Category": "                          ",
+    "  Transmitter": "    100 KW MW      ",
+    "  Fequency": "                    864 khz",
+    " Studio": " TYPE II  UPLINK RNU"
+  },
+  {
+    "Serial-number": "258",
+    " Stations": "     TURA",
+    "               Category": "                              ",
+    "  Transmitter": "    20 kW MW       ",
+    "  Fequency": "                   1233 khz",
+    " Studio": " TYPE I"
+  },
+  {
+    "Serial-number": "259",
+    " Stations": "     WILLIAMNAGAR",
+    "               Category": "              CRS     ",
+    "  Transmitter": "    1 kW MW        ",
+    "  Fequency": "                   1602 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "260",
+    " Stations": "     CHERRAPUNJI",
+    "               Category": "               RELAY   ",
+    "  Transmitter": "    100 W FM       ",
+    "  Fequency": "                  100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "261",
+    " Stations": "     AIJAWL",
+    "               Category": "                            ",
+    "  Transmitter": "    20 kW MW       ",
+    "  Fequency": "                     540 khz",
+    " Studio": " TYPE II  UPLINK RNU"
+  },
+  {
+    "Serial-number": "262",
+    " Stations": "     LUNGLEH",
+    "               Category": "                           ",
+    "  Transmitter": "    6 KW FM        ",
+    "  Fequency": "                   101.9 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "263",
+    " Stations": "    SAIHA",
+    "               Category": "                     CRS      ",
+    "  Transmitter": "   1 kW MW         ",
+    "  Fequency": "                   1602 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "264",
+    " Stations": "     RENGDIL",
+    "               Category": "                   RELAY   ",
+    "  Transmitter": "    100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "265",
+    " Stations": "     LAISAWRAI",
+    "               Category": "                 RELAY   ",
+    "  Transmitter": "    100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "266",
+    " Stations": "     LAWNGTLAI",
+    "               Category": "                 LPT RELAY",
+    "  Transmitter": "   100 W FM       ",
+    "  Fequency": "                   100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "267",
+    " Stations": "     KOHIMA",
+    "               Category": "                             ",
+    "  Transmitter": "   100 KW MW      ",
+    "  Fequency": "                     639 khz",
+    " Studio": " TYPE III UPLINK RNU"
+  },
+  {
+    "Serial-number": "268",
+    " Stations": "    MOKOKCHUNG",
+    "               Category": "                       LRS",
+    "  Transmitter": "         6 KW FM  ",
+    "  Fequency": "                         100.9 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "269",
+    " Stations": "    MON",
+    "               Category": "                              CRS",
+    "  Transmitter": "         1 kW MW  ",
+    "  Fequency": "                          1584 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "270",
+    " Stations": "    TUENSANG",
+    "               Category": "                         CRS",
+    "  Transmitter": "         1 kW MW  ",
+    "  Fequency": "                          1602 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "271",
+    " Stations": "    SAMTORE",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                         100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "272",
+    " Stations": "    DIMAPUR",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                         100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "273",
+    " Stations": "    BARIPADA",
+    "               Category": "                         LRS      ",
+    "  Transmitter": "   5 KW FM  ",
+    "  Fequency": "                         102.9 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "274",
+    " Stations": "    BERHAMPUR",
+    "               Category": "                        LRS      ",
+    "  Transmitter": "   6 KW FM  ",
+    "  Fequency": "                         100.6 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "275",
+    " Stations": "    BHAWANIPATNA",
+    "               Category": "                              ",
+    "  Transmitter": "   200 KW MW",
+    "  Fequency": "                          1206 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "276",
+    " Stations": "    BOLANGIR",
+    "               Category": "                         LRS      ",
+    "  Transmitter": "    6 KW FM ",
+    "  Fequency": "                          101.9 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "277",
+    " Stations": "    CUTTACK",
+    "               Category": "                                   ",
+    "  Transmitter": "   300 KW MW",
+    "  Fequency": "                           972 khz",
+    " Studio": "    TYPE IV UPLINK RNU"
+  },
+  {
+    "Serial-number": "278",
+    " Stations": "    JEYPORE",
+    "               Category": "                                   ",
+    "  Transmitter": "   100 KW MW",
+    "  Fequency": "                          1467 khz",
+    " Studio": " TYPE I"
+  },
+  {
+    "Serial-number": "279",
+    " Stations": "    JORANDA",
+    "               Category": "                          LRS      ",
+    "  Transmitter": "   1 kW MW  ",
+    "  Fequency": "                           1485 khz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "280",
+    " Stations": "    KEONJHAR",
+    "               Category": "                         LRS      ",
+    "  Transmitter": "   1 kW MW  ",
+    "  Fequency": "                           1584 khz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "281",
+    " Stations": "    PURI",
+    "               Category": "                             LRS      ",
+    "  Transmitter": "   3 KW FM  ",
+    "  Fequency": "                         103.4 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "282",
+    " Stations": "    ROURKELA",
+    "               Category": "                         LRS      ",
+    "  Transmitter": "   6 KW FM  ",
+    "  Fequency": "                         102.6 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "283",
+    " Stations": "    SAMBALPUR",
+    "               Category": "                                 ",
+    "  Transmitter": "   100 KW MW",
+    "  Fequency": "                            945 khz",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "284",
+    " Stations": "    DEOGARH",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM ",
+    "  Fequency": "                         101.0 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "285",
+    " Stations": "    SORO",
+    "               Category": "                             LRS      ",
+    "  Transmitter": "   1 KW MW  ",
+    "  Fequency": "                          1485 KHz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "286",
+    " Stations": "    SUNDERGARH",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "287",
+    " Stations": "    ANGUL",
+    "               Category": "                            LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "288",
+    " Stations": "    PARADEEP",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "289",
+    " Stations": "    PARLAKHEMUNDI",
+    "               Category": "                    LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "290",
+    " Stations": "    BALIGUDA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "291",
+    " Stations": "    RAYAGADA",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "292",
+    " Stations": "    NUAPARA",
+    "               Category": "                          LPT RELAY",
+    "  Transmitter": "   100 W FM",
+    "  Fequency": "                                   ",
+    " Studio": " "
+  },
+  {
+    "Serial-number": "293",
+    " Stations": "    RAIRANGPUR",
+    "               Category": "                                ",
+    "  Transmitter": "   1 kW FM  ",
+    "  Fequency": "                        102.0 MHz",
+    " Studio": " Studio with Voice-over recording &"
+  },
+  {
+    "Serial-number": "294",
+    " Stations": "    BHATINDA",
+    "               Category": "                         LRS      ",
+    "  Transmitter": "   6 KW FM   ",
+    "  Fequency": "                        101.1 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "295",
+    " Stations": "    JALLANDHAR",
+    "               Category": "                                ",
+    "  Transmitter": "   300 KW MW ",
+    "  Fequency": "                          873 khz",
+    " Studio": "    TYPE IV UPLINK"
+  },
+  {
+    "Serial-number": "296",
+    " Stations": "    PATIALA",
+    "               Category": "                          LRS      ",
+    "  Transmitter": "   6 KW FM   ",
+    "  Fequency": "                        100.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "297",
+    " Stations": "    GURDASPUR",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                        100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "298",
+    " Stations": "    FEROZEPUR",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                        100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "299",
+    " Stations": "    LUDHIANA",
+    "               Category": "                                  ",
+    "  Transmitter": "   5 kW FM   ",
+    "  Fequency": "                        100.1 Mhz",
+    " Studio": " Studio with Voice-over recording &"
+  },
+  {
+    "Serial-number": "300",
+    " Stations": "   AJMER",
+    "               Category": "                               RELAY  ",
+    "  Transmitter": "     200 KW MW",
+    "  Fequency": "                           603 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "301",
+    " Stations": "    ALWAR",
+    "               Category": "                               LRS   ",
+    "  Transmitter": "      10 KW FM",
+    "  Fequency": "                          103.1 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "302",
+    " Stations": "    BANSWARA",
+    "               Category": "                            LRS   ",
+    "  Transmitter": "      10 KW FM",
+    "  Fequency": "                          101.3 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "303",
+    " Stations": "    BARMER",
+    "               Category": "                                    ",
+    "  Transmitter": "      20 kW MW",
+    "  Fequency": "                           1458 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "304",
+    " Stations": "    BIKANER",
+    "               Category": "                                   ",
+    "  Transmitter": "      20 kW MW",
+    "  Fequency": "                           1395 khz",
+    " Studio": "    TYPE II"
+  },
+  {
+    "Serial-number": "305",
+    " Stations": "    CHITTORGARH",
+    "               Category": "                      LRS      ",
+    "  Transmitter": "   10 KW FM   ",
+    "  Fequency": "                       102.9 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "306",
+    " Stations": "    CHURU",
+    "               Category": "                                     ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       100.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "307",
+    " Stations": "    JAIPUR",
+    "               Category": "                                    ",
+    "  Transmitter": "   1 kW MW    ",
+    "  Fequency": "                        1476 khz",
+    " Studio": "    TYPE IIIUplink News on phone RNU"
+  },
+  {
+    "Serial-number": "308",
+    " Stations": "    JAISALMER",
+    "               Category": "                                 ",
+    "  Transmitter": "   10 KW FM   ",
+    "  Fequency": "                       101.8 Mhz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "309",
+    " Stations": "    JHALAWAR",
+    "               Category": "                         LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       103.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "310",
+    " Stations": "    JODHPUR",
+    "               Category": "                                   ",
+    "  Transmitter": "   300 KW MW  ",
+    "  Fequency": "                         531 khz",
+    " Studio": "    TYPE III"
+  },
+  {
+    "Serial-number": "311",
+    " Stations": "    KOTA",
+    "               Category": "                             LRS      ",
+    "  Transmitter": "   20 kW MW   ",
+    "  Fequency": "                        1413 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "312",
+    " Stations": "    MOUNT ABU",
+    "               Category": "                                 ",
+    "  Transmitter": "  6 KW FM     ",
+    "  Fequency": "                      103.5 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "313",
+    " Stations": "    NAGAUR",
+    "               Category": "                           LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       103.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "314",
+    " Stations": "    SAWAI MADHOPUR",
+    "               Category": "                   LRS      ",
+    "  Transmitter": "   6 KW FM    ",
+    "  Fequency": "                       101.5 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "315",
+    " Stations": "    SURATGARH",
+    "               Category": "                                 ",
+    "  Transmitter": "   300 KW MW  ",
+    "  Fequency": "                         918 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "317",
+    " Stations": "     NATHWARA",
+    "               Category": "              LPT RELAY",
+    "  Transmitter": "      100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "318",
+    " Stations": "     JHUNJHUNU",
+    "               Category": "             LPT RELAY",
+    "  Transmitter": "      100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "319",
+    " Stations": "     BHARATPUR",
+    "               Category": "             LPT RELAY",
+    "  Transmitter": "      100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "320",
+    " Stations": "     KARAULI",
+    "               Category": "               LPT RELAY",
+    "  Transmitter": "      100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "321",
+    " Stations": "     ANUPGARH",
+    "               Category": "              LPT RELAY",
+    "  Transmitter": "      100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "322",
+    " Stations": "     DUNGARPUR",
+    "               Category": "                      ",
+    "  Transmitter": "      1 kW MW           ",
+    "  Fequency": "                 1485 kHz",
+    " Studio": " Transmission studio with voice - over"
+  },
+  {
+    "Serial-number": "324",
+    " Stations": "     RONGPO",
+    "               Category": "                LPT RELAY ",
+    "  Transmitter": "     100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "325",
+    " Stations": "     RONGLI",
+    "               Category": "                LPT RELAY ",
+    "  Transmitter": "     100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "326",
+    " Stations": "     YANGYANG",
+    "               Category": "              LPT RELAY ",
+    "  Transmitter": "     100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "327",
+    " Stations": "     TASHIDING",
+    "               Category": "             LPT RELAY ",
+    "  Transmitter": "     100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "328",
+    " Stations": "     ZORTHANG",
+    "               Category": "              LPT RELAY ",
+    "  Transmitter": "     100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "329",
+    " Stations": "     NAMCHI",
+    "               Category": "                LPT RELAY ",
+    "  Transmitter": "     100 W FM          ",
+    "  Fequency": "                100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "330",
+    " Stations": "     CHENNAI",
+    "               Category": "                         ",
+    "  Transmitter": "     200 KW MW 'A'     ",
+    "  Fequency": "                  720 khz",
+    " Studio": " MULTI TRACK"
+  },
+  {
+    "Serial-number": "331",
+    " Stations": "     COIMBATORE",
+    "               Category": "                      ",
+    "  Transmitter": "     20 kW MW          ",
+    "  Fequency": "                   999 khz",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "332",
+    " Stations": "     KODAIKANAL",
+    "               Category": "                      ",
+    "  Transmitter": "     10 KW FM          ",
+    "  Fequency": "                100.5 Mhz",
+    " Studio": "    MP(STEREO)"
+  },
+  {
+    "Serial-number": "333",
+    " Stations": "     MADURAI",
+    "               Category": "                         ",
+    "  Transmitter": "     20 kW MW          ",
+    "  Fequency": "                 1269 khz",
+    " Studio": "    TYPE II"
+  },
+  {
+    "Serial-number": "334",
+    " Stations": "     NAGARCOIL",
+    "               Category": "             LRS       ",
+    "  Transmitter": "     10 KW FM          ",
+    "  Fequency": "                  101 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "335",
+    " Stations": "     OOTTACAMUND",
+    "               Category": "                     ",
+    "  Transmitter": "     1 kW MW           ",
+    "  Fequency": "                 1602 khz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "336",
+    " Stations": "     TIRUCHIRAPALLI",
+    "               Category": "                  ",
+    "  Transmitter": "     100 KW MW         ",
+    "  Fequency": "                   936 khz",
+    " Studio": "   TYPE IV RNU"
+  },
+  {
+    "Serial-number": "337",
+    " Stations": "     TIRUNELVELI",
+    "               Category": "                     ",
+    "  Transmitter": "     20 KW MW          ",
+    "  Fequency": "                 1197 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "338",
+    " Stations": "     TUTICORIN",
+    "               Category": "                       ",
+    "  Transmitter": "     200 KW MW ",
+    "  Fequency": "               1053 khz",
+    " Studio": "    TYPE I"
+  },
+  {
+    "Serial-number": "339",
+    " Stations": "     DHARMAPURI",
+    "               Category": "            LRS       ",
+    "  Transmitter": "    10 KW FM ",
+    "  Fequency": "                      102.5 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "340",
+    " Stations": "     SALEM (YERCAUD)",
+    "               Category": "       LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                         100.9 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "341",
+    " Stations": "     THANJAVUR",
+    "               Category": "             LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                         101.2 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "342",
+    " Stations": "     RAMESHWARAM",
+    "               Category": "           LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "343",
+    " Stations": "     VELLORE",
+    "               Category": "               LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "344",
+    " Stations": "     TIRUPATTUR",
+    "               Category": "            LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "345",
+    " Stations": "     AGARTALA",
+    "               Category": "                        ",
+    "  Transmitter": "     20 kW MW ",
+    "  Fequency": "                          1269 khz",
+    " Studio": " TYPE I  UPLINK RNU"
+  },
+  {
+    "Serial-number": "346",
+    " Stations": "     BELONIA",
+    "               Category": "               LRS       ",
+    "  Transmitter": "     6 KW FM  ",
+    "  Fequency": "                         103.7 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "347",
+    " Stations": "     KAILASHAHAR",
+    "               Category": "           LRS       ",
+    "  Transmitter": "     6 KW FM  ",
+    "  Fequency": "                         103.2 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "348",
+    " Stations": "     AMARPUR",
+    "               Category": "               LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "349",
+    " Stations": "     KHOWAI",
+    "               Category": "                LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "350",
+    " Stations": "    TELIMURA",
+    "               Category": "              LPT RELAY  ",
+    "  Transmitter": "    100 W FM  ",
+    "  Fequency": "                       100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "351",
+    " Stations": "     SABROOM",
+    "               Category": "               LPT RELAY ",
+    "  Transmitter": "     100 W FM ",
+    "  Fequency": "                        100.1 MHZ",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "352",
+    " Stations": "     DHARMANAGAR",
+    "               Category": "                     ",
+    "  Transmitter": "     1 kW MW  ",
+    "  Fequency": "                          1584 kHz",
+    " Studio": "    Playback with Voiceover recording & field"
+  },
+  {
+    "Serial-number": "353",
+    " Stations": "     CHANDIGARH [1]",
+    "               Category": "        VB Exclusive",
+    "  Transmitter": "   6 KW FM  ",
+    "  Fequency": "                         103.1 Mhz",
+    " Studio": " STEREO"
+  },
+  {
+    "Serial-number": "354",
+    " Stations": "    SILVASA",
+    "               Category": "                LPT RELAY",
+    "  Transmitter": "   100 W FM    ",
+    "  Fequency": "                      100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "355",
+    " Stations": "    DAMAN [1]",
+    "               Category": "              LRS",
+    "  Transmitter": "         3 KW FM     ",
+    "  Fequency": "                      102.3 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "356",
+    " Stations": "    PONDICHERRY",
+    "               Category": "                   ",
+    "  Transmitter": "     20 kW MW    ",
+    "  Fequency": "                       1215 khz",
+    " Studio": " MP RNU"
+  },
+  {
+    "Serial-number": "357",
+    " Stations": "    KARAIKAL",
+    "               Category": "               LRS",
+    "  Transmitter": "         6 KW FM     ",
+    "  Fequency": "                      100.3 Mhz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "358",
+    " Stations": "    KAVARATTI",
+    "               Category": "                 ",
+    "  Transmitter": "         1 kW MW     ",
+    "  Fequency": "                       1584 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "359",
+    " Stations": "    PORT BLAIR A&N",
+    "               Category": "            ",
+    "  Transmitter": "         100 kW MW   ",
+    "  Fequency": "                        684 khz",
+    " Studio": " RNU"
+  },
+  {
+    "Serial-number": "360",
+    " Stations": "    AGRA",
+    "               Category": "                      ",
+    "  Transmitter": "         20 kW MW    ",
+    "  Fequency": "                       1530 khz",
+    " Studio": " TYPE I"
+  },
+  {
+    "Serial-number": "361",
+    " Stations": "    ALIGARH",
+    "               Category": "              RELAY",
+    "  Transmitter": "       6 KW FM",
+    "  Fequency": "                  101.3 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "362",
+    " Stations": "    ALLAHABAD",
+    "               Category": "                 ",
+    "  Transmitter": "       20 kW MW",
+    "  Fequency": "                           1026 khz",
+    " Studio": "    TYPE III"
+  },
+  {
+    "Serial-number": "363",
+    " Stations": "    BAREILLY",
+    "               Category": "             LRS",
+    "  Transmitter": "         6 KW FM ",
+    "  Fequency": "                          100.4 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "364",
+    " Stations": "    FAIZABAD",
+    "               Category": "             LRS",
+    "  Transmitter": "         6 KW FM ",
+    "  Fequency": "                          101.9 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "365",
+    " Stations": "    GORAKHPUR",
+    "               Category": "               ",
+    "  Transmitter": "       100 KW MW ",
+    "  Fequency": "                          909 khz  ",
+    " Studio": "  TYPE III RNU"
+  },
+  {
+    "Serial-number": "366",
+    " Stations": "    JHANSI",
+    "               Category": "               LRS",
+    "  Transmitter": "         6 KW FM ",
+    "  Fequency": "                            103 Mhz",
+    " Studio": "    MP"
+  },
+  {
+    "Serial-number": "367",
+    " Stations": "    KANPUR",
+    "               Category": "               VB EXCL",
+    "  Transmitter": "    1 kW FM  ",
+    "  Fequency": "                         103.7 Mhz ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "368",
+    " Stations": "    LUCKNOW",
+    "               Category": "                     ",
+    "  Transmitter": "    300 KW MW  ",
+    "  Fequency": "                          747 khz",
+    " Studio": " TYPE IV Uplink News on Phone"
+  },
+  {
+    "Serial-number": "369",
+    " Stations": "    MATHURA",
+    "               Category": "                     ",
+    "  Transmitter": "    1 kW MW  ",
+    "  Fequency": "                         1584 khz  ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "370",
+    " Stations": "    NAJIBABAD",
+    "               Category": "                   ",
+    "  Transmitter": "    200 KW MW ",
+    "  Fequency": "                         954 khz  ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "371",
+    " Stations": "    OBRA",
+    "               Category": "                        ",
+    "  Transmitter": "    6 KW FM ",
+    "  Fequency": "                         102.7 Mhz  ",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "372",
+    " Stations": "    RAMPUR",
+    "               Category": "                      ",
+    "  Transmitter": "    20 kW MW",
+    "  Fequency": "                           891 khz  ",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "373",
+    " Stations": "    VARANASI",
+    "               Category": "                    ",
+    "  Transmitter": "                 100 KW MW ",
+    "  Fequency": "                         1242 khz",
+    " Studio": "     TYPE II UPLINK(Under installn.)"
+  },
+  {
+    "Serial-number": "374",
+    " Stations": "    BHARAICH",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "375",
+    " Stations": "    ORAI",
+    "               Category": "                             LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "376",
+    " Stations": "    BALRAMPUR",
+    "               Category": "                        LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "377",
+    " Stations": "    MAHOBA",
+    "               Category": "                           LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "378",
+    " Stations": "    PILIBHIT",
+    "               Category": "                         LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "379",
+    " Stations": "    HARDOI",
+    "               Category": "                           LPT RELAY",
+    "  Transmitter": "   100 W FM  ",
+    "  Fequency": "                       100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "380",
+    " Stations": "    LAKHIMPURKHERI",
+    "               Category": "                   RELAY",
+    "  Transmitter": "       10 kW FM  ",
+    "  Fequency": "                       102.3 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "381",
+    " Stations": "    MAUNATH BHANJAN",
+    "               Category": "                  RELAY",
+    "  Transmitter": "       10 kW FM  ",
+    "  Fequency": "                       102.2 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "382",
+    " Stations": "    RAEBAREILI",
+    "               Category": "                            ",
+    "  Transmitter": "       5 kW FM   ",
+    "  Fequency": "                       102.8 MHz ",
+    " Studio": "    Studio with Voice-over recording & playback facility"
+  },
+  {
+    "Serial-number": "383",
+    " Stations": "    AMETHI",
+    "               Category": "                                ",
+    "  Transmitter": "      5 kW FM    ",
+    "  Fequency": "                      103.1 MHz",
+    " Studio": " Studio with Voice-over recording &"
+  },
+  {
+    "Serial-number": "384",
+    " Stations": "    ALMORA",
+    "               Category": "                                ",
+    "  Transmitter": "       1 kW MW   ",
+    "  Fequency": "                          999 khz",
+    " Studio": " TYPE I UPLINK"
+  },
+  {
+    "Serial-number": "385",
+    " Stations": "    BHATWARI",
+    "               Category": "                         RELAY",
+    "  Transmitter": "       100 W FM  ",
+    "  Fequency": "                        100.3MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "386",
+    " Stations": "    GOPESHWAR(CHAMOLI)",
+    "               Category": "                    ",
+    "  Transmitter": "       1 kW MW   ",
+    "  Fequency": "                         1485 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "387",
+    " Stations": "     MUSSOORIE",
+    "               Category": "                    RELAY   ",
+    "  Transmitter": "        10 KW FM ",
+    "  Fequency": "               102.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "388",
+    " Stations": "     PAURI",
+    "               Category": "                                ",
+    "  Transmitter": "        1 kW MW  ",
+    "  Fequency": "                         1602 khz",
+    " Studio": " MP"
+  },
+  {
+    "Serial-number": "389",
+    " Stations": "     PITHORAGARH",
+    "               Category": "                  RELAY   ",
+    "  Transmitter": "        1 kW MW  ",
+    "  Fequency": "                         1602 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "390",
+    " Stations": "     UTTARKASHI",
+    "               Category": "                   RELAY   ",
+    "  Transmitter": "        1 kW MW  ",
+    "  Fequency": "                         1602 khz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "391",
+    " Stations": "     PRATAP NAGAR",
+    "               Category": "                 LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "392",
+    " Stations": "     BACHER",
+    "               Category": "                       LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "393",
+    " Stations": "     RAJGARHI",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "394",
+    " Stations": "     TANAKPUR",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "395",
+    " Stations": "     KHAETIKHAN",
+    "               Category": "                   LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "396",
+    " Stations": "     UKHIMATH",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "397",
+    " Stations": "     NAINITAL",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "398",
+    " Stations": "     KASHIPUR",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "399",
+    " Stations": "     KALAGARH",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "400",
+    " Stations": "     RANIKHET",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM ",
+    "  Fequency": "                        100.1 MHz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "401",
+    " Stations": "     ASANSOLE",
+    "               Category": "                     RELAY    ",
+    "  Transmitter": "       6 KW FM RELAY ",
+    "  Fequency": "                    100.3 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "402",
+    " Stations": "     KOLKATA",
+    "               Category": "                               ",
+    "  Transmitter": "      200 KW MW   ",
+    "  Fequency": "                     657 khz",
+    " Studio": " TYPE IV UPLINK RNU"
+  },
+  {
+    "Serial-number": "403",
+    " Stations": "     KURSEONG",
+    "               Category": "                              ",
+    "  Transmitter": "       50 KW SW   ",
+    "  Fequency": "                            ",
+    " Studio": "   TYPE II RNU"
+  },
+  {
+    "Serial-number": "404",
+    " Stations": "     MURSHIDABAD",
+    "               Category": "                  LRS      ",
+    "  Transmitter": "       6 KW FM    ",
+    "  Fequency": "                      102.2 Mhz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "405",
+    " Stations": "     SHANTINIKETAN",
+    "               Category": "                LRS      ",
+    "  Transmitter": "       3 KW FM    ",
+    "  Fequency": "                      103.1 Mhz",
+    " Studio": "   MP"
+  },
+  {
+    "Serial-number": "406",
+    " Stations": "     SILIGURI",
+    "               Category": "                              ",
+    "  Transmitter": "       200 KW MW  ",
+    "  Fequency": "                        711 khz",
+    " Studio": "   TYPE I"
+  },
+  {
+    "Serial-number": "407",
+    " Stations": "     DARJEELING",
+    "               Category": "                   LPT RELAY",
+    "  Transmitter": "       100 W FM   ",
+    "  Fequency": "                      100.2 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "408",
+    " Stations": "     BALURGHAT",
+    "               Category": "                    LPT RELAY",
+    "  Transmitter": "       100 W FM   ",
+    "  Fequency": "                     101.00 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "409",
+    " Stations": "     MEDNIPUR",
+    "               Category": "                     LPT RELAY",
+    "  Transmitter": "       100 W FM   ",
+    "  Fequency": "                    100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "410",
+    " Stations": "     PURULIA",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                    100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "411",
+    " Stations": "     FARAKKA",
+    "               Category": "                      LPT RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                    100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "412",
+    " Stations": "     KRISHNAGAR",
+    "               Category": "                   LPT RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                    100.1 Mhz",
+    " Studio": ""
+  },
+  {
+    "Serial-number": "413",
+    " Stations": "     COOCHBEHAR",
+    "               Category": "                   LPT RELAY",
+    "  Transmitter": "       100 W   FM ",
+    "  Fequency": "                    100.1 Mhz",
+    " Studio": ""
+  }
+]
