@@ -149,7 +149,7 @@ Serial-number, Stations,               Category,  Transmitter,  Fequency, Studio
 151,     DALTONGANJ,          LRS,       10 KW FM               ,             103 Mhz,    MP
 152,     HAJARIBAGH,          LRS,       6 KW FM                ,           102.1 Mhz,    MP
 153,     JAMSHEDPUR,             ,       1 kW MW                ,            1584 khz,    TYPE I
-154,     RANCHI,                          100 KW MW             ,               549 khz,   TYPE IIUPLINK RNU
+154,     RANCHI,                 ,         100 KW MW             ,               549 khz,   TYPE IIUPLINK RNU
 155,     DHANBAD,             LPT Relay,   100 W FM             ,            100.1 MHz,
 156,     CHATRA,              LPT Relay,   100 W FM             ,            100.1 MHz,
 157,     GHATSHILA,           LPT Relay,   100 W FM             ,            100.1 MHz,
